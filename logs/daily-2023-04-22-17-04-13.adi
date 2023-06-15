@@ -1,0 +1,6373 @@
+NetLogger 3.1.7, Copyright(c) 2015-2016 John Marvin, AC0ZG, All Rights Reserved.
+<LOG_PGM:9>NetLogger
+<LOG_VER:5>3.1.7
+
+<PROGRAMID:9>NetLogger
+<PROGRAMVERSION:5>3.1.7
+
+<EOH>
+
+<Call:5>M0HWA
+<QSO_Date:8>20100711
+<Time_On:6>182200
+<Band:2>2m
+<RST_Sent:2>59
+<Mode:3>VOI
+<Gridsquare:6>IO81VE
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:55>THANKS FOR THE Q S O , I LOOK FORWARD TO THE NEXT TIME.
+<eor>
+
+<Call:6>KF4IZE
+<QSO_Date:8>20101009
+<Time_On:6>181400
+<Band:3>40m
+<RST_Sent:2>59
+<Mode:3>SSB
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:57>Thanks for the contact John. Hope to work you again soon!
+<eor>
+
+<Call:6>KF7GYE
+<QSO_Date:8>20101009
+<Time_On:6>184000
+<Band:3>40m
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>DM25xg
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>W7SA
+<QSO_Date:8>20101010
+<Time_On:6>050100
+<Band:3>40M
+<Mode:3>SSB
+<Gridsquare:4>DM42
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>XE2AC
+<QSO_Date:8>20101010
+<Time_On:6>232200
+<Band:3>10M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>DL81uv
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KF5DPN
+<QSO_Date:8>20101021
+<Time_On:6>012200
+<Band:3>40M
+<RST_Sent:2>54
+<Mode:3>SSB
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>N2ADK
+<QSO_Date:8>20101021
+<Time_On:6>024400
+<Band:3>40M
+<RST_Sent:2>57
+<Mode:3>SSB
+<Gridsquare:6>FN29ex
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>W5RAW
+<QSO_Date:8>20101022
+<Time_On:6>002400
+<Band:3>40M
+<RST_Sent:2>33
+<Mode:3>SSB
+<Gridsquare:6>DM95hp
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>N2ADK
+<QSO_Date:8>20101022
+<Time_On:6>021300
+<Band:3>40M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>FN29ex
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>KF6E
+<QSO_Date:8>20101023
+<Time_On:6>000800
+<Band:3>40M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>FM19gc
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:14>TNX fer FB QSO
+<eor>
+
+<Call:4>KU0G
+<QSO_Date:8>20101023
+<Time_On:6>001400
+<Band:3>40M
+<RST_Sent:2>57
+<Mode:3>SSB
+<Gridsquare:6>EM28ds
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>W3OKC
+<QSO_Date:8>20101023
+<Time_On:6>002100
+<Band:3>40M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>FN10na
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>W0TKX
+<QSO_Date:8>20101023
+<Time_On:6>012600
+<Band:3>40M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>DM79ho
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:49>Sorry about the delay, just joined eQSL.  Thanks!
+<eor>
+
+<Call:5>K6RZZ
+<QSO_Date:8>20101023
+<Time_On:6>033000
+<Band:3>40M
+<RST_Sent:2>56
+<Mode:3>SSB
+<Gridsquare:4>DM05
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>K5TRM
+<QSO_Date:8>20101023
+<Time_On:6>033200
+<Band:3>40M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:4>DM95
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>KI7MT
+<QSO_Date:8>20101023
+<Time_On:6>033300
+<Band:3>40M
+<RST_Sent:2>58
+<Mode:3>SSB
+<Gridsquare:6>DN46BR
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:43>OM-40M-LATE-SSB - TNX For The Contact. 73's
+<eor>
+
+<Call:5>W4UZI
+<QSO_Date:8>20101023
+<Time_On:6>033900
+<Band:3>40M
+<RST_Sent:2>44
+<Mode:3>SSB
+<Gridsquare:4>EM79
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>KU0G
+<QSO_Date:8>20101023
+<Time_On:6>121400
+<Band:3>40M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>EM28ds
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>W1MSG
+<QSO_Date:8>20101025
+<Time_On:6>002000
+<Band:3>40M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>FN42be
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>W1MED
+<QSO_Date:8>20101025
+<Time_On:6>002000
+<Band:3>40M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>FN42be
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:47>Thanks for the QSO on 40m, 73 and Best Wishes !
+<eor>
+
+<Call:5>N5EEC
+<QSO_Date:8>20101102
+<Time_On:6>001000
+<Band:3>40M
+<RST_Sent:6>59s44r
+<Mode:3>SSB
+<Gridsquare:4>EM41
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>K9UDX
+<QSO_Date:8>20101102
+<Time_On:6>014300
+<Band:3>40M
+<RST_Sent:2>55
+<Mode:3>SSB
+<Gridsquare:4>FN44
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>VE6XMB
+<QSO_Date:8>20101102
+<Time_On:6>224400
+<Band:3>20M
+<RST_Sent:2>57
+<Mode:3>SSB
+<Gridsquare:6>DN39ql
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>W7GVW
+<QSO_Date:8>20101102
+<Time_On:6>224700
+<Band:3>20M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>DN28tj
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KB0ROX
+<QSO_Date:8>20101105
+<Time_On:6>234100
+<Band:3>40M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>EM48ke
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>W5HOY
+<QSO_Date:8>20101106
+<Time_On:6>011900
+<Band:3>40M
+<RST_Sent:2>33
+<Mode:3>SSB
+<Gridsquare:6>EM26ai
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:27>THANKS STEPHEN - 73 CHARLIE
+<eor>
+
+<Call:6>KB7SKZ
+<QSO_Date:8>20101108
+<Time_On:6>214000
+<Band:3>17m
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>DM43gj
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:75>Team QSO with KB7SKY. Portable Operations.  2010 Deer Hunt.  Location: DM51
+<eor>
+
+<Call:5>N6EED
+<QSO_Date:8>20101108
+<Time_On:6>220200
+<Band:3>17M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>DM14ed
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>K0DEU
+<QSO_Date:8>20101108
+<Time_On:6>231700
+<Band:3>40M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>DN83iu
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KD8IWQ
+<QSO_Date:8>20101108
+<Time_On:6>234200
+<Band:3>40m
+<RST_Sent:2>55
+<Mode:3>SSB
+<Gridsquare:6>EN72NW
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:34>This confirms our two-way SSB QSO 
+<eor>
+
+<Call:5>W4BAB
+<QSO_Date:8>20101110
+<Time_On:6>013200
+<Band:3>40M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>em74kw
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KD8NJZ
+<QSO_Date:8>20101113
+<Time_On:6>021600
+<Band:3>40M
+<RST_Sent:2>36
+<Mode:3>SSB
+<Gridsquare:6>EN81ej
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>WA1NRQ
+<QSO_Date:8>20101113
+<Time_On:6>163500
+<Band:3>20M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:4>FM06
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:57>Thanks for qsl, good qso, hope to see you again, 73 , Tom
+<eor>
+
+<Call:5>W7JDB
+<QSO_Date:8>20101113
+<Time_On:6>193500
+<Band:3>17M
+<Mode:3>SSB
+<Gridsquare:4>DM27
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>WB5K
+<QSO_Date:8>20101113
+<Time_On:6>205700
+<Band:3>20M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>CN86sx
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KA5TCF
+<QSO_Date:8>20101117
+<Time_On:6>001800
+<Band:3>40M
+<RST_Sent:2>53
+<Mode:3>SSB
+<Gridsquare:6>em12qu
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KF4ZZY
+<QSO_Date:8>20101120
+<Time_On:6>185500
+<Band:3>17M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:4>EM73
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:12>gooddx!  Max
+<eor>
+
+<Call:5>VA3IK
+<QSO_Date:8>20101124
+<Time_On:6>202200
+<Band:3>20M
+<RST_Sent:2>57
+<Mode:3>SSB
+<Gridsquare:6>FN15xg
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>AC7GI
+<QSO_Date:8>20101128
+<Time_On:6>023900
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>CN87mf
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:22>73, thanks for the QSO
+<eor>
+
+<Call:5>NX3SS
+<QSO_Date:8>20101128
+<Time_On:6>152100
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>FM18nx
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:69>I messed up the tuning and lost you. Great QSO though. Thanks and 73.
+<eor>
+
+<Call:5>NX3SS
+<QSO_Date:8>20101128
+<Time_On:6>154000
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>FM18nx
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:17>Tnx QSO and 73...
+<eor>
+
+<Call:5>W4UZQ
+<QSO_Date:8>20101128
+<Time_On:6>155600
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>EM83bi
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>IK1BXN
+<QSO_Date:8>20101128
+<Time_On:6>165400
+<Band:3>20M
+<RST_Sent:3>589
+<Mode:3>PSK
+<Gridsquare:6>JN44LN
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:45>Thanks a lot for QSO ! 73 and arrivederci !!!
+<eor>
+
+<Call:6>KD4OBO
+<QSO_Date:8>20101128
+<Time_On:6>205900
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>DM76pa
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:38>Thanks for the Great 20 Meter QSO  73s
+<eor>
+
+<Call:4>NN3V
+<QSO_Date:8>20101201
+<Time_On:6>005900
+<Band:3>40M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>DM13la
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>K6SCM
+<QSO_Date:8>20101201
+<Time_On:6>010600
+<Band:3>40M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>CM98ex
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:42>Tnx for contact, RST & QSO -  -73- de Sean
+<eor>
+
+<Call:5>K6BIY
+<QSO_Date:8>20101204
+<Time_On:6>020800
+<Band:3>40M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>DM25qc
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:35>Thanks for the qso on PSK31 Stephen
+<eor>
+
+<Call:6>PA3ZDG
+<QSO_Date:8>20101204
+<Time_On:6>143900
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>JO22OA
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:9>thanks 73
+<eor>
+
+<Call:5>W6SDM
+<QSO_Date:8>20101205
+<Time_On:6>145100
+<Band:3>17M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>DM78pt
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>CT4KG
+<QSO_Date:8>20101205
+<Time_On:6>160700
+<Band:3>17M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>IN51PF
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>KJ0P
+<QSO_Date:8>20101206
+<Time_On:6>032500
+<Band:3>40M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>EN34GW
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>F5NMK
+<QSO_Date:8>20101206
+<Time_On:6>142400
+<Band:3>17M
+<RST_Sent:3>579
+<Mode:3>PSK
+<Gridsquare:6>JN38NQ
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:57>Thanks for the QSO, I appreciate the contact! vy 73 Alain
+<eor>
+
+<Call:5>K4SWJ
+<QSO_Date:8>20101212
+<Time_On:6>015700
+<Band:3>40M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>EM73vx
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:57>Stephen, thanks for the FB QSO!  Hope to cuagn.  73, Doug
+<eor>
+
+<Call:5>K4SWJ
+<QSO_Date:8>20101212
+<Time_On:6>021900
+<Band:3>40M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>EM73vx
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KG6ASY
+<QSO_Date:8>20101212
+<Time_On:6>030200
+<Band:3>40M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>DM09cg
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>N3FT
+<QSO_Date:8>20101212
+<Time_On:6>192400
+<Band:3>20M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>EM10cj
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>N1CKX
+<QSO_Date:8>20101212
+<Time_On:6>192800
+<Band:3>20M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>FN43gc
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>N1CKX
+<QSO_Date:8>20101212
+<Time_On:6>192900
+<Band:3>20M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>FN43gc
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>K5LCL
+<QSO_Date:8>20101212
+<Time_On:6>231100
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>DM93ao
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>WA7NVT
+<QSO_Date:8>20101216
+<Time_On:6>203500
+<Band:3>20M
+<RST_Sent:2>55
+<Mode:3>SSB
+<Gridsquare:6>CN84hn
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KD8OSD
+<QSO_Date:8>20101218
+<Time_On:6>013800
+<Band:3>40M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>EN82sw
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:16>73's and good DX
+<eor>
+
+<Call:6>KD8OSD
+<QSO_Date:8>20101218
+<Time_On:6>013800
+<Band:3>40M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>EN82sw
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>K7MSC
+<QSO_Date:8>20101218
+<Time_On:6>015500
+<Band:3>40M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>CN97cl
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:15>think sunspots!
+<eor>
+
+<Call:5>KT4WI
+<QSO_Date:8>20101219
+<Time_On:6>130000
+<Band:3>40M
+<Mode:3>PSK
+<Gridsquare:6>EL99lh
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>KT4WI
+<QSO_Date:8>20101219
+<Time_On:6>130000
+<Band:3>40M
+<Mode:3>PSK
+<Gridsquare:6>EL99lh
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>KT4WI
+<QSO_Date:8>20101219
+<Time_On:6>130100
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>EL99lh
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>KT4WI
+<QSO_Date:8>20101219
+<Time_On:6>130100
+<Band:3>20M
+<Mode:3>PSK
+<Gridsquare:6>EL99lh
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>AJ4RW
+<QSO_Date:8>20101219
+<Time_On:6>130700
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>EM80ln
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:24>Tnx fer QSO  Randy AJ4RW
+<eor>
+
+<Call:5>AD4ZU
+<QSO_Date:8>20101220
+<Time_On:6>135300
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>EL88qg
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:8>KB1RXA/P
+<QSO_Date:8>20101220
+<Time_On:6>135300
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>FN31GH
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KB1RXA
+<QSO_Date:8>20101220
+<Time_On:6>135300
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>fn31fh
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:24>Thanks for your QSO, 73!
+<eor>
+
+<Call:5>K7ASQ
+<QSO_Date:8>20101220
+<Time_On:6>153700
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:4>CN87
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>K7ASQ
+<QSO_Date:8>20101220
+<Time_On:6>153700
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:4>CN87
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>WC7V
+<QSO_Date:8>20101221
+<Time_On:6>213900
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>DN45rp
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>K7BAW
+<QSO_Date:8>20101221
+<Time_On:6>215000
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>DM33wm
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>AD4NJ
+<QSO_Date:8>20101221
+<Time_On:6>220800
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>fm17td
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>HA0ML
+<QSO_Date:8>20101222
+<Time_On:6>132100
+<Band:3>40M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>KN17GX
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KG3BOZ
+<QSO_Date:8>20101226
+<Time_On:6>130300
+<Band:3>40M
+<RST_Sent:3>589
+<Mode:3>PSK
+<Gridsquare:6>Fm18sg
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>AE7KI
+<QSO_Date:8>20101226
+<Time_On:6>175700
+<Band:3>20M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>DN18dh
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:24>tnx qso Steven  73 Gerry
+<eor>
+
+<Call:5>K2PSD
+<QSO_Date:8>20101226
+<Time_On:6>202100
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>FN20ru
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>W5VGR
+<QSO_Date:8>20110211
+<Time_On:6>004900
+<Band:3>40M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>EL29nw
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:20>73's CU on the radio
+<eor>
+
+<Call:5>K4ALE
+<QSO_Date:8>20110216
+<Time_On:6>010200
+<Band:3>40M
+<RST_Sent:3>589
+<Mode:2>CW
+<Gridsquare:6>FM07jj
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:35>Good job.  Hope to see you soon. 73
+<eor>
+
+<Call:6>WB7RXY
+<QSO_Date:8>20110217
+<Time_On:6>020100
+<Band:3>40m
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>DN16mj
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>WA1GCT
+<QSO_Date:8>20110218
+<Time_On:6>172300
+<Band:3>20m
+<RST_Sent:3>579
+<Mode:2>CW
+<Gridsquare:6>FN41xr
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>W7DXW
+<QSO_Date:8>20110307
+<Time_On:6>022200
+<Band:3>40M
+<RST_Sent:2>58
+<Mode:3>SSB
+<Gridsquare:6>DM42mg
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KA9TOZ
+<QSO_Date:8>20110309
+<Time_On:6>010300
+<Band:3>40M
+<RST_Sent:3>599
+<Mode:2>CW
+<Gridsquare:4>em48
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KJ4WNW
+<QSO_Date:8>20110314
+<Time_On:6>193300
+<Band:3>20M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:4>EM97
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:18>Thanks for contact
+<eor>
+
+<Call:5>K0CMD
+<QSO_Date:8>20110321
+<Time_On:6>001500
+<Band:3>40M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>EM28rt
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:35>Thanks for the NATA QSO!  73!  dave
+<eor>
+
+<Call:4>WU8Q
+<QSO_Date:8>20110321
+<Time_On:6>001500
+<Band:3>40M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:4>em97
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>KC5H
+<QSO_Date:8>20110321
+<Time_On:6>001700
+<Band:3>40M
+<RST_Sent:2>55
+<Mode:3>SSB
+<Gridsquare:6>EM40cx
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>KJ7YY
+<QSO_Date:8>20110321
+<Time_On:6>002200
+<Band:3>40m
+<RST_Sent:5>55/55
+<Mode:3>SSB
+<Gridsquare:4>dn12
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:10>  73, John
+<eor>
+
+<Call:5>K1DDN
+<QSO_Date:8>20110321
+<Time_On:6>002500
+<Band:3>40M
+<RST_Sent:2>55
+<Mode:3>SSB
+<Gridsquare:6>DM78jk
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:24>Thanks for the NATA QSO!
+<eor>
+
+<Call:5>K0CMD
+<QSO_Date:8>20110321
+<Time_On:6>012000
+<Band:3>40M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>EM28rt
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:66>Thanks for the contact!  Having a great time, and you helped!  73!
+<eor>
+
+<Call:4>KC5H
+<QSO_Date:8>20110321
+<Time_On:6>012400
+<Band:3>40M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>EM40cx
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>WU8Q
+<QSO_Date:8>20110322
+<Time_On:6>011600
+<Band:3>40M
+<RST_Sent:2>57
+<Mode:3>SSB
+<Gridsquare:4>em97
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>W6QP
+<QSO_Date:8>20110322
+<Time_On:6>123900
+<Band:3>40M
+<Mode:3>PSK
+<Gridsquare:4>dm13
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KE4WLE
+<QSO_Date:8>20110325
+<Time_On:6>230100
+<Band:3>40M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>EM89at
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:31>73 de ke4wle & tnx for the QSO!
+<eor>
+
+<Call:4>WB7E
+<QSO_Date:8>20110327
+<Time_On:6>150200
+<Band:3>20m
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>EM29sh
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:72>Tnx fr PSK31 qso on 14.070.  from my port Pinal Co. AZ station.  Charlie
+<eor>
+
+<Call:6>KI6WOX
+<QSO_Date:8>20110329
+<Time_On:6>020200
+<Band:3>20M
+<RST_Sent:2>55
+<Mode:3>SSB
+<Gridsquare:6>CM99fs
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:2>73
+<eor>
+
+<Call:6>KI6WOX
+<QSO_Date:8>20110329
+<Time_On:6>200000
+<Band:3>20M
+<RST_Sent:2>55
+<Mode:3>SSB
+<Gridsquare:6>CM99fs
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KI6WOX
+<QSO_Date:8>20110329
+<Time_On:6>200200
+<Band:3>20M
+<RST_Sent:2>55
+<Mode:3>SSB
+<Gridsquare:6>CM99fs
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KB3NTJ
+<QSO_Date:8>20110330
+<Time_On:6>012900
+<Band:3>40M
+<RST_Sent:2>55
+<Mode:3>SSB
+<Gridsquare:4>fm29
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>IZ8LLH
+<QSO_Date:8>20110401
+<Time_On:6>194600
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>IW2OGJ
+<QSO_Date:8>20110401
+<Time_On:6>210200
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>JN45OO
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>KK7XT
+<QSO_Date:8>20110402
+<Time_On:6>210700
+<Band:3>40m
+<RST_Sent:2>55
+<Mode:3>SSB
+<Gridsquare:4>DN28
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>WT6X
+<QSO_Date:8>20110402
+<Time_On:6>222400
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>CM97cp
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:38>Tnx for the FB QSO, 73 for now de Jose
+<eor>
+
+<Call:6>KB1URN
+<QSO_Date:8>20110403
+<Time_On:6>021000
+<Band:3>40M
+<Mode:3>SSB
+<Gridsquare:6>FN44uh
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>NU4U
+<QSO_Date:8>20110408
+<Time_On:6>231200
+<Band:3>40M
+<Mode:3>SSB
+<Gridsquare:4>EM85
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>NU4U
+<QSO_Date:8>20110408
+<Time_On:6>232400
+<Band:3>40M
+<Mode:3>SSB
+<Gridsquare:4>EM85
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>KU8L
+<QSO_Date:8>20110408
+<Time_On:6>232600
+<Band:3>40M
+<RST_Sent:2>57
+<Mode:3>SSB
+<Gridsquare:6>EN82hi
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>W6BBS
+<QSO_Date:8>20110417
+<Time_On:6>173400
+<Band:3>20M
+<RST_Sent:2>54
+<Mode:3>SSB
+<Gridsquare:6>DM06bw
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>K1QS
+<QSO_Date:8>20110417
+<Time_On:6>181800
+<Band:3>20M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:4>FN43
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>N4DUC
+<QSO_Date:8>20110417
+<Time_On:6>182300
+<Band:3>20M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>EM56sf
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>AB1OD
+<QSO_Date:8>20110417
+<Time_On:6>183400
+<Band:3>20M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>FN31pw
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:33>Thanks for the Rookie Roundup QSO
+<eor>
+
+<Call:5>KL2SX
+<QSO_Date:8>20110417
+<Time_On:6>185000
+<Band:3>20M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>BP64bv
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:27>THX for the contest QSO! 73
+<eor>
+
+<Call:5>N6MEJ
+<QSO_Date:8>20110417
+<Time_On:6>190100
+<Band:3>20M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:4>DM79
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>W1HFD
+<QSO_Date:8>20110417
+<Time_On:6>192000
+<Band:3>20M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>fn01hh
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KB1SUA
+<QSO_Date:8>20110417
+<Time_On:6>192100
+<Band:3>20M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>FN42bf
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:26>Thanks for the QSO 73 Mike
+<eor>
+
+<Call:6>KG7UFO
+<QSO_Date:8>20110417
+<Time_On:6>192800
+<Band:3>20M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:4>DM78
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KF7LUA
+<QSO_Date:8>20110417
+<Time_On:6>193900
+<Band:3>20M
+<Mode:3>SSB
+<Gridsquare:6>DN42ih
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KF7LUA
+<QSO_Date:8>20110417
+<Time_On:6>194000
+<Band:3>20M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>DN42ih
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>K1ING
+<QSO_Date:8>20110417
+<Time_On:6>194200
+<Band:3>20M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>DM78ot
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:39>THANKS FOR THE QSO AND CONFERMATION! 73
+<eor>
+
+<Call:5>K1ING
+<QSO_Date:8>20110417
+<Time_On:6>194300
+<Band:3>20M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>DM78ot
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:42>Thanks for the QSO on my first contest. 73
+<eor>
+
+<Call:4>WA1N
+<QSO_Date:8>20110417
+<Time_On:6>200300
+<Band:3>20M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>FN43GA
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>NW5Q
+<QSO_Date:8>20110417
+<Time_On:6>202400
+<Band:3>20m
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>EM13qc
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:62>Tnx for the QSO Stephen, I'll envy your summer.  :-)  73, Stan
+<eor>
+
+<Call:6>KF7ELU
+<QSO_Date:8>20110417
+<Time_On:6>202900
+<Band:3>20M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>DN41tg
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:11>73 and tnx!
+<eor>
+
+<Call:6>KC9RXI
+<QSO_Date:8>20110417
+<Time_On:6>205000
+<Band:3>40M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>EN43kv
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KF7ELU
+<QSO_Date:8>20110417
+<Time_On:6>223000
+<Band:3>20M
+<RST_Sent:2>55
+<Mode:3>SSB
+<Gridsquare:6>DN41tg
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:37>Thanks for the QSO! 73's From Wyoming
+<eor>
+
+<Call:6>KB1URN
+<QSO_Date:8>20110422
+<Time_On:6>012000
+<Band:3>40M
+<Mode:3>SSB
+<Gridsquare:6>FN44uh
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KJ4KKB
+<QSO_Date:8>20110617
+<Time_On:6>020800
+<Band:3>80M
+<RST_Sent:2>22
+<Mode:3>SSB
+<Gridsquare:6>EM74OB
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:44>Thanks for the Contact     I was QRP 5 Watts
+<eor>
+
+<Call:5>K0JDD
+<QSO_Date:8>20110617
+<Time_On:6>020900
+<Band:3>80M
+<RST_Sent:2>39
+<Mode:3>SSB
+<Gridsquare:6>EN34mv
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KJ4KKB
+<QSO_Date:8>20110617
+<Time_On:6>021100
+<Band:3>80M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>EM74OB
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>N2MLP
+<QSO_Date:8>20110618
+<Time_On:6>171100
+<Band:3>15M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:4>FN21
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>W9AEG
+<QSO_Date:8>20110619
+<Time_On:6>210000
+<Band:3>40M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>EM58lm
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KC4FLT
+<QSO_Date:8>20110622
+<Time_On:6>010900
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:2>CW
+<Gridsquare:4>EM71
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>W5RK
+<QSO_Date:8>20110626
+<Time_On:6>035200
+<Band:3>10M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>EM12io
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:14>Thx es 73 w5rk
+<eor>
+
+<Call:4>W0EF
+<QSO_Date:8>20110626
+<Time_On:6>110200
+<Band:3>20M
+<Mode:3>SSB
+<Gridsquare:4>en34
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>W5ORA
+<QSO_Date:8>20110701
+<Time_On:6>000000
+<Band:3>40M
+<RST_Sent:6>55s57r
+<Mode:3>SSB
+<Gridsquare:4>EM41
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:16>NATA NET contact
+<eor>
+
+<Call:4>KU0G
+<QSO_Date:8>20110701
+<Time_On:6>000600
+<Band:3>40M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>EM28ds
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>W0VD
+<QSO_Date:8>20110701
+<Time_On:6>002600
+<Band:3>40M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:4>EM37
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KC0ZPS
+<QSO_Date:8>20110701
+<Time_On:6>002800
+<Band:3>40m
+<RST_Sent:2>55
+<Mode:3>SSB
+<Gridsquare:6>DM79mv
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:46>7.185.00 North American Traffic and Awards Net
+<eor>
+
+<Call:5>KB5YN
+<QSO_Date:8>20110701
+<Time_On:6>203800
+<Band:3>15M
+<RST_Sent:2>54
+<Mode:3>SSB
+<Gridsquare:6>EM10DJ
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>IZ7PDX
+<QSO_Date:8>20110708
+<Time_On:6>001500
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:2>CW
+<Gridsquare:6>JN80PS
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>WB2REM
+<QSO_Date:8>20110711
+<Time_On:6>204400
+<Band:3>10M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>FN20pg
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>K4VO
+<QSO_Date:8>20110716
+<Time_On:6>221600
+<Band:3>20M
+<RST_Sent:2>56
+<Mode:3>SSB
+<Gridsquare:6>EM63nl
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KB1JTB
+<QSO_Date:8>20110722
+<Time_On:6>021100
+<Band:3>80m
+<RST_Sent:2>33
+<Mode:3>SSB
+<Gridsquare:6>EM12qw
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:60>mobile ops from Iron River, Iron county, MI USA Grid: EN56qc
+<eor>
+
+<Call:6>KC9TLM
+<QSO_Date:8>20110722
+<Time_On:6>024100
+<Band:3>80M
+<RST_Sent:2>22
+<Mode:3>SSB
+<Gridsquare:6>EN52vg
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KB2RUV
+<QSO_Date:8>20110723
+<Time_On:6>002400
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>FM29vs
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KB2RUV
+<QSO_Date:8>20110723
+<Time_On:6>002400
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>FM29vs
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>W0PE
+<QSO_Date:8>20110723
+<Time_On:6>002700
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>DM13cv
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:38>thanks for the great PSK31 QSO 73 Fred
+<eor>
+
+<Call:5>W7AAA
+<QSO_Date:8>20110723
+<Time_On:6>172500
+<Band:3>20M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>DM42lk
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:20>Great QSO.  73s Doug
+<eor>
+
+<Call:5>AI4SR
+<QSO_Date:8>20110727
+<Time_On:6>003500
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:6>em78rc
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:12>Thanks.  Jim
+<eor>
+
+<Call:6>DL2OCE
+<QSO_Date:8>20110727
+<Time_On:6>230000
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>JO41XW
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KB1KMF
+<QSO_Date:8>20110729
+<Time_On:6>010300
+<Band:3>20M
+<RST_Sent:2>57
+<Mode:3>SSB
+<Gridsquare:4>fn56
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KB1KMF
+<QSO_Date:8>20110729
+<Time_On:6>010900
+<Band:3>20M
+<RST_Sent:2>57
+<Mode:3>SSB
+<Gridsquare:4>fn56
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>MM0EAX
+<QSO_Date:8>20110818
+<Time_On:6>225300
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:6>IO89ka
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>WA8RPK
+<QSO_Date:8>20110820
+<Time_On:6>132900
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:6>EM99IN
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:22>TNX FOR THE QSO 73 TOM
+<eor>
+
+<Call:4>WA1N
+<QSO_Date:8>20110821
+<Time_On:6>174200
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:6>FN43GA
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>N2WN
+<QSO_Date:8>20110821
+<Time_On:6>180500
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:6>EM86ee
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>KJ1I
+<QSO_Date:8>20110821
+<Time_On:6>183100
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:6>FN42dt
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>WA1N
+<QSO_Date:8>20110821
+<Time_On:6>183200
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:6>FN43GA
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>K6GEP
+<QSO_Date:8>20110821
+<Time_On:6>183600
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:4>DM13
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>AB4SF
+<QSO_Date:8>20110821
+<Time_On:6>184100
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:6>FM17el
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:40>Thanks for RR QSO - hope CU agn! 73 Wray
+<eor>
+
+<Call:5>NA7RH
+<QSO_Date:8>20110821
+<Time_On:6>184400
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:6>DM43bo
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KK4BJV
+<QSO_Date:8>20110821
+<Time_On:6>185200
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:6>EM50wr
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>KF4MH
+<QSO_Date:8>20110821
+<Time_On:6>185200
+<Band:3>20M
+<Mode:4>RTTY
+<Gridsquare:6>EM50VP
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>W8IDW
+<QSO_Date:8>20110821
+<Time_On:6>190300
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:4>EM99
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:44>Tks for RR RTTY contact.   John, 09, WV   73
+<eor>
+
+<Call:4>W1PL
+<QSO_Date:8>20110821
+<Time_On:6>191100
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:6>FN42ji
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>W6NN
+<QSO_Date:8>20110821
+<Time_On:6>191600
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:6>CM87xe
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>W4QO
+<QSO_Date:8>20110821
+<Time_On:6>193800
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:4>EM74
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>AB1OD
+<QSO_Date:8>20110821
+<Time_On:6>194700
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:6>FN31pw
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:29>Thanks for the RR contact  73
+<eor>
+
+<Call:5>AJ4CG
+<QSO_Date:8>20110821
+<Time_On:6>194900
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:6>EM74ua
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>AL9A
+<QSO_Date:8>20110821
+<Time_On:6>195300
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:6>BP51io
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>K6YL
+<QSO_Date:8>20110821
+<Time_On:6>200100
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:6>CM87vl
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>AB1QB
+<QSO_Date:8>20110821
+<Time_On:6>200200
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:6>FN42er
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KB1VMQ
+<QSO_Date:8>20110821
+<Time_On:6>200200
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:6>FN42er
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KI6QDH
+<QSO_Date:8>20110821
+<Time_On:6>204600
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:4>cm95
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>N4DWS
+<QSO_Date:8>20110821
+<Time_On:6>205000
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:6>FM18iq
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:43>Thank you for the QSO -- hope to QSO again!
+<eor>
+
+<Call:5>W2REA
+<QSO_Date:8>20110821
+<Time_On:6>205400
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:6>FN02jc
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>W1NDY
+<QSO_Date:8>20110821
+<Time_On:6>205500
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:6>CN72tk
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>W2REA
+<QSO_Date:8>20110821
+<Time_On:6>205500
+<Band:3>20M
+<Mode:4>RTTY
+<Gridsquare:6>FN02jc
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>AA5AU
+<QSO_Date:8>20110821
+<Time_On:6>210200
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:6>EL49xu
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>AK2L
+<QSO_Date:8>20110821
+<Time_On:6>210900
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:6>DM42lj
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KJ6KQE
+<QSO_Date:8>20110821
+<Time_On:6>211000
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:6>DM14fk
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>K2DSL
+<QSO_Date:8>20110821
+<Time_On:6>212500
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:6>FN21wa
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:33>Thanks for Rookie Roundup contact
+<eor>
+
+<Call:5>K1ING
+<QSO_Date:8>20110821
+<Time_On:6>213800
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:6>DM78ot
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:47>thanks for the qso ans hope to catch you again.
+<eor>
+
+<Call:4>K7EA
+<QSO_Date:8>20110821
+<Time_On:6>215000
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:4>DN40
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>K7EA
+<QSO_Date:8>20110821
+<Time_On:6>215100
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:4>DN40
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>K4REB
+<QSO_Date:8>20110821
+<Time_On:6>220900
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:6>FM14mv
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>KR0L
+<QSO_Date:8>20110821
+<Time_On:6>221500
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:4>EM18
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>N6HE
+<QSO_Date:8>20110821
+<Time_On:6>221900
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>RTTY
+<Gridsquare:6>DM03ts
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>AA0RB
+<QSO_Date:8>20111028
+<Time_On:6>020100
+<Band:3>40M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>DN91od
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>JO1WKO
+<QSO_Date:8>20111029
+<Time_On:6>222600
+<Band:3>10M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>PM95UX
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>KI4PG
+<QSO_Date:8>20111104
+<Time_On:6>143500
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:4>EM63
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>RA0JBL
+<QSO_Date:8>20111107
+<Time_On:6>002700
+<Band:3>10M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>PO33PR
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:19>TNX For QSO TU 73!.
+<eor>
+
+<Call:5>W9DKC
+<QSO_Date:8>20111230
+<Time_On:6>000900
+<Band:3>20M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>EL87tx
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KF7QEC
+<QSO_Date:8>20120101
+<Time_On:6>213000
+<Band:3>15M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>DN26xt
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>K9AQ
+<QSO_Date:8>20120310
+<Time_On:6>171900
+<Band:3>40M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:4>en52
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>RV6AFG
+<QSO_Date:8>20130708
+<Time_On:6>210400
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>KN95LO
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>RV6AFG
+<QSO_Date:8>20130708
+<Time_On:6>210500
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>KN95LO
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>KR4RO
+<QSO_Date:8>20130710
+<Time_On:6>013800
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>EM95on
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>W1TG
+<QSO_Date:8>20130713
+<Time_On:6>125900
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>FN42ow
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:52>Thanks for the QSO....all the best to you!  73 - Tom
+<eor>
+
+<Call:6>WB6LZC
+<QSO_Date:8>20130713
+<Time_On:6>214500
+<Band:3>20m
+<RST_Sent:3>479
+<Mode:4>RTTY
+<Gridsquare:6>CM87xb
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:62>Sorry to lose you in QSB. Hope to connect again soon. 73, Mike
+<eor>
+
+<Call:4>KU8F
+<QSO_Date:8>20130715
+<Time_On:6>002500
+<Band:3>40M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:4>EN71
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KD0TXH
+<QSO_Date:8>20130721
+<Time_On:6>011800
+<Band:3>40M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>EN22xb
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>KZ6ZZ
+<QSO_Date:8>20130727
+<Time_On:6>222700
+<Band:3>40M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>EN72sd
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>WB4IT
+<QSO_Date:8>20130728
+<Time_On:6>013300
+<Band:3>40M
+<RST_Sent:2>55
+<Mode:3>SSB
+<Gridsquare:6>EM63of
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:11>73 de WB4IT
+<eor>
+
+<Call:5>K9DEB
+<QSO_Date:8>20140627
+<Time_On:6>023900
+<Band:3>80M
+<RST_Sent:2>53
+<Mode:3>SSB
+<Gridsquare:6>EN52xf
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:33>Thanks for the OMISS Net contact.
+<eor>
+
+<Call:5>K9WVL
+<QSO_Date:8>20140627
+<Time_On:6>024000
+<Band:3>80M
+<RST_Sent:2>57
+<Mode:3>SSB
+<Gridsquare:6>EN44uo
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KD5LKB
+<QSO_Date:8>20140628
+<Time_On:6>171600
+<Band:3>20M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:4>EM32
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>KU1T
+<QSO_Date:8>20140628
+<Time_On:6>202600
+<Band:3>20M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>FM09wj
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:7>W5RAW/0
+<QSO_Date:8>20140629
+<Time_On:6>153500
+<Band:3>20M
+<Mode:3>SSB
+<Gridsquare:4>EN05
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>W5RAW
+<QSO_Date:8>20140629
+<Time_On:6>153500
+<Band:3>20M
+<Mode:3>SSB
+<Gridsquare:6>DM95hp
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:7>W5RAW/0
+<QSO_Date:8>20140630
+<Time_On:6>032600
+<Band:3>40M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:4>EN05
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>W5RAW
+<QSO_Date:8>20140630
+<Time_On:6>032600
+<Band:3>40M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>DM95hp
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>VE7GL
+<QSO_Date:8>20140701
+<Time_On:6>224700
+<Band:3>20M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>CN99ab
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>WA2BCK
+<QSO_Date:8>20140701
+<Time_On:6>232100
+<Band:3>20M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>FM18ix
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>N6HC
+<QSO_Date:8>20140701
+<Time_On:6>232300
+<Band:3>20M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>DM13cs
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>W7MEM
+<QSO_Date:8>20140703
+<Time_On:6>174100
+<Band:2>6M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>DN17NR
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>K7AAO
+<QSO_Date:8>20140704
+<Time_On:6>010700
+<Band:3>40M
+<Mode:3>SSB
+<Gridsquare:6>DN40bn
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>K7AAO
+<QSO_Date:8>20140704
+<Time_On:6>010800
+<Band:3>40M
+<RST_Sent:2>22
+<Mode:3>SSB
+<Gridsquare:6>DN40bn
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KF5RKZ
+<QSO_Date:8>20140704
+<Time_On:6>013100
+<Band:3>40M
+<RST_Sent:2>55
+<Mode:3>SSB
+<Gridsquare:6>EM14nx
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KC8QFF
+<QSO_Date:8>20140704
+<Time_On:6>021300
+<Band:3>40m
+<RST_Sent:2>55
+<Mode:3>SSB
+<Gridsquare:6>EN72eh
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:19>7.185 MHz OMISS Net
+<eor>
+
+<Call:5>K9TZZ
+<QSO_Date:8>20140704
+<Time_On:6>022200
+<Band:3>40m
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>EM59er
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:52>Nice signal into Central IL, Thanks for the contact.
+<eor>
+
+<Call:5>AA8EH
+<QSO_Date:8>20140704
+<Time_On:6>030000
+<Band:3>40M
+<RST_Sent:2>33
+<Mode:3>SSB
+<Gridsquare:6>EM74ww
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KI6WOX
+<QSO_Date:8>20140704
+<Time_On:6>030100
+<Band:3>40M
+<RST_Sent:2>58
+<Mode:3>SSB
+<Gridsquare:6>CM99fs
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KI6WOX
+<QSO_Date:8>20140704
+<Time_On:6>030200
+<Band:3>40M
+<RST_Sent:2>58
+<Mode:3>SSB
+<Gridsquare:6>CM99fs
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KA8YIT
+<QSO_Date:8>20140704
+<Time_On:6>031400
+<Band:3>40M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:4>EM76
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>WL7X
+<QSO_Date:8>20140720
+<Time_On:6>200200
+<Band:3>17M
+<RST_Sent:2>56
+<Mode:3>SSB
+<Gridsquare:6>BP64is
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>N2KOJ
+<QSO_Date:8>20140804
+<Time_On:6>022700
+<Band:3>40M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>FN20RV
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>N0CVW
+<QSO_Date:8>20141011
+<Time_On:6>171700
+<Band:3>20M
+<RST_Sent:3>579
+<Mode:2>CW
+<Gridsquare:6>EM29qa
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>K8ES
+<QSO_Date:8>20150627
+<Time_On:6>231200
+<Band:3>20M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:4>EN80
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>N5SLY
+<QSO_Date:8>20150719
+<Time_On:6>225600
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>EM13rq
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:18>Thanks for the QSO
+<eor>
+
+<Call:5>W4FGA
+<QSO_Date:8>20150719
+<Time_On:6>233900
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>EM83al
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>N4EMP
+<QSO_Date:8>20150720
+<Time_On:6>020400
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:4>EM63
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>N2PPI
+<QSO_Date:8>20150720
+<Time_On:6>023600
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>FN30FQ
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>KZ6B
+<QSO_Date:8>20150720
+<Time_On:6>224900
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>CM99kg
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>AF7NX
+<QSO_Date:8>20150721
+<Time_On:6>020600
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>CN84kb
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:22>Thanks for PSK qso, 73
+<eor>
+
+<Call:6>KC5TGT
+<QSO_Date:8>20150721
+<Time_On:6>021300
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>EM42qb
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KI6NIC
+<QSO_Date:8>20150722
+<Time_On:6>005500
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>SSTV
+<Gridsquare:6>CM98xu
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KA9DLJ
+<QSO_Date:8>20150723
+<Time_On:6>185200
+<Band:3>20m
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>EN70dn
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:3>332
+<eor>
+
+<Call:5>KF7BA
+<QSO_Date:8>20150725
+<Time_On:6>022800
+<Band:3>40M
+<RST_Sent:2>55
+<Mode:3>SSB
+<Gridsquare:6>DN28vi
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:34>TNX for the QSO 73's - OMISS #9584
+<eor>
+
+<Call:5>K7NWF
+<QSO_Date:8>20150727
+<Time_On:6>022300
+<Band:3>20M
+<Mode:3>PSK
+<Gridsquare:6>DM33xb
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KB8BIP
+<QSO_Date:8>20150727
+<Time_On:6>214800
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>EM88vk
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>K4BDC
+<QSO_Date:8>20150728
+<Time_On:6>033400
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>EM64kj
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>K4BDC
+<QSO_Date:8>20150728
+<Time_On:6>033500
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>EM64kj
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>9A2TN
+<QSO_Date:8>20150728
+<Time_On:6>214800
+<Band:3>17M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>JN95IM
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>WX7MB
+<QSO_Date:8>20150728
+<Time_On:6>224700
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>DM43do
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:47>Thank you for the QSO. 73 from DM43do AZ.. Mark
+<eor>
+
+<Call:5>N6STA
+<QSO_Date:8>20150728
+<Time_On:6>234300
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>DM03tx
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:11>Thanks - 73
+<eor>
+
+<Call:5>KF8YO
+<QSO_Date:8>20150729
+<Time_On:6>200700
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>SSTV
+<Gridsquare:4>em88
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>KG0MI
+<QSO_Date:8>20150730
+<Time_On:6>160200
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>EM46in
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KC9ROD
+<QSO_Date:8>20150731
+<Time_On:6>012500
+<Band:3>40M
+<RST_Sent:5>22/55
+<Mode:3>SSB
+<Gridsquare:6>EN52eh
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:32>Please confirm QSL on QRZ Thanks
+<eor>
+
+<Call:5>W5HEH
+<QSO_Date:8>20150731
+<Time_On:6>013600
+<Band:3>40M
+<RST_Sent:2>55
+<Mode:3>SSB
+<Freq:5>7.185
+<Gridsquare:6>EM36pf
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KC9NCS
+<QSO_Date:8>20150731
+<Time_On:6>013800
+<Band:3>40M
+<RST_Sent:2>57
+<Mode:3>SSB
+<Gridsquare:6>EN61ao
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KE0EMB
+<QSO_Date:8>20150731
+<Time_On:6>020000
+<Band:3>40M
+<Mode:3>SSB
+<Gridsquare:4>EN25
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:4>eQSL
+<eor>
+
+<Call:6>KF5GTX
+<QSO_Date:8>20150731
+<Time_On:6>022700
+<Band:3>40M
+<RST_Sent:2>22
+<Mode:3>SSB
+<Gridsquare:6>EM15fi
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>I6GKI
+<QSO_Date:8>20150803
+<Time_On:6>215700
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:4>SSTV
+<Gridsquare:6>JN63UH
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:24>Tnx for QSO best 73 Enzo
+<eor>
+
+<Call:9>N7LMV/XE2
+<QSO_Date:8>20150806
+<Time_On:6>030200
+<Band:3>40M
+<RST_Sent:2>44
+<Mode:3>SSB
+<Gridsquare:6>DL67hk
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:41>THANKS LARRY FOR THE OMISS QSO MY # 10086
+<eor>
+
+<Call:9>XE2/N7LMV
+<QSO_Date:8>20150806
+<Time_On:6>031000
+<Band:3>40M
+<RST_Sent:2>44
+<Mode:3>SSB
+<Gridsquare:6>DL67hk
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:41>Thanks Larry for the OMISS QSO My # 10086
+<eor>
+
+<Call:5>N5GGG
+<QSO_Date:8>20150809
+<Time_On:6>194500
+<Band:3>17M
+<RST_Sent:2>57
+<Mode:3>SSB
+<Gridsquare:4>EM34
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KE5PRL
+<QSO_Date:8>20150816
+<Time_On:6>182200
+<Band:3>20M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>EM54ek
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KG7DZB
+<QSO_Date:8>20150824
+<Time_On:6>010200
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>CN85ri
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KF7KWV
+<QSO_Date:8>20150824
+<Time_On:6>234200
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>CN88uj
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:6>KF7KWV
+<QSO_Date:8>20150824
+<Time_On:6>235100
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>CN88uj
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>N7KF
+<QSO_Date:8>20150825
+<Time_On:6>221200
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>CN92de
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>W6QP
+<QSO_Date:8>20150825
+<Time_On:6>223800
+<Band:3>15M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:4>dm13
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>KC3FL
+<QSO_Date:8>20150827
+<Time_On:6>190600
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>el88tv
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>N3VXK
+<QSO_Date:8>20150829
+<Time_On:6>171300
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>FN02ji
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>WO8L
+<QSO_Date:8>20150829
+<Time_On:6>173800
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>EM96TE
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:46>Dr. Stephen, TNX for QSO and eQSL.  73s, Rick.
+<eor>
+
+<Call:4>WO8L
+<QSO_Date:8>20150829
+<Time_On:6>222600
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>EM96TE
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:46>Dr. Stephen, TNX for QSO and eQSO.  73s, Rick.
+<eor>
+
+<Call:6>IK0OEF
+<QSO_Date:8>20150829
+<Time_On:6>223200
+<Band:3>20m
+<RST_Sent:3>5/9
+<Mode:3>PSK
+<Gridsquare:6>JN61IL
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:38>Many thank for the contact 73' Claudio
+<eor>
+
+<Call:6>IK0OEF
+<QSO_Date:8>20150830
+<Time_On:6>222600
+<Band:3>20M
+<RST_Sent:3>599
+<Mode:3>PSK
+<Gridsquare:6>JN61IL
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<QSLMSG:38>Many thank for the contact 73' Claudio
+<eor>
+
+<Call:5>W6ADF
+<QSO_Date:8>20151115
+<Time_On:6>200800
+<Band:3>10M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>DM13lg
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>W6ZE
+<QSO_Date:8>20170624
+<Time_On:6>212600
+<Band:3>20M
+<Mode:3>SSB
+<Gridsquare:4>DM03
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>K4CWW
+<QSO_Date:8>20170625
+<Time_On:6>014800
+<Band:3>20M
+<Mode:3>SSB
+<Gridsquare:4>EM63
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>N6HC
+<QSO_Date:8>20170625
+<Time_On:6>151800
+<Band:3>20M
+<Mode:3>SSB
+<Gridsquare:6>DM13cs
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:4>N6HC
+<QSO_Date:8>20170625
+<Time_On:6>171100
+<Band:3>20M
+<Mode:3>SSB
+<Gridsquare:6>DM13cs
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>N7DXT
+<QSO_Date:8>20170625
+<Time_On:6>174000
+<Band:3>20M
+<RST_Sent:2>59
+<Mode:3>SSB
+<Gridsquare:6>DN36ax
+<App_NetLogger_Conf_Sent:1>C
+<Operator:14>KD0MGE-STEPHEN
+<eor>
+
+<Call:5>N2KED
+<QSO_Date:8>20180327
+<Time_On:6>022042
+<App_NetLogger_ClubMemberId:5>10429
+<Name:4>Dave
+<Band:3>40m
+<RST_Sent:2>55
+<RST_Rcvd:2>59
+<Mode:3>SSB
+<Freq:5>7.185
+<State:2>NY
+<Cnty:3>NY,
+<App_NetLogger_Preferred_Name:4>Dave
+<Operator:6>KD0MGE
+<App_NetLogger_Net:17>OMISS 40m SSB Net
+<eor>
+
+<Call:4>W0YY
+<QSO_Date:8>20200605
+<Time_On:6>224259
+<Name:14>Larry L. Smith
+<Band:3>40m
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:13>Sunrise Beach
+<State:2>MO
+<Cnty:9>MO,Camden
+<DXCC:3>291
+<Gridsquare:6>EM38pe
+<App_NetLogger_Preferred_Name:5>Larry
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<Country:13>United States
+<Address:60>Larry L. Smith
+293 Catalina Bay Dr
+Sunrise Beach, MO 65079
+<App_NetLogger_Net:12>NATA 40m Net
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>N9AVI
+<QSO_Date:8>20200605
+<Time_On:6>224434
+<Comment:14>(no club info)
+<Name:16>Richard J Vicars
+<Band:3>40m
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:10>Fort Wayne
+<State:2>IN
+<Cnty:8>IN,Allen
+<DXCC:3>291
+<Gridsquare:6>EN71ke
+<App_NetLogger_Preferred_Name:7>Richard
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<Country:13>United States
+<Address:63>Richard J Vicars
+12125 Burning Tree Road
+Fort Wayne, IN 46845
+<App_NetLogger_Net:12>NATA 40m Net
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>KC8MM
+<QSO_Date:8>20200609
+<Time_On:6>185419
+<App_NetLogger_ClubMemberId:4>1095
+<Comment:8>OMISS 20
+<Name:4>MIKE
+<Band:3>20m
+<RST_Sent:2>55
+<RST_Rcvd:2>55
+<Mode:3>SSB
+<Freq:6>14.286
+<QTH:7>RUDOLPH
+<State:2>OH
+<Cnty:7>OH,WOOD
+<DXCC:3>291
+<Gridsquare:4>EN81
+<App_NetLogger_Preferred_Name:7>Michael
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<QSL_Via:12>T QRZ-Direct
+<Country:13>United States
+<QSLMSG:15>eQSL-QRZ-Direct
+<Address:41>MIKE
+14060 MERMILL RD
+RUDOLPH, OH 43462
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>W4DFR
+<QSO_Date:8>20200609
+<Time_On:6>191015
+<App_NetLogger_ClubMemberId:4>8867
+<Comment:4>FREE
+<Name:4>DAVE
+<Band:3>20m
+<RST_Sent:2>55
+<RST_Rcvd:2>55
+<Mode:3>SSB
+<Freq:6>14.286
+<QTH:7>Chaplin
+<State:2>KY
+<Cnty:9>KY,NELSON
+<DXCC:3>291
+<Gridsquare:4>EM77
+<App_NetLogger_Preferred_Name:5>David
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<QSL_Via:29>GIB-5 M V T N LOTW--eqsl--qrz
+<Country:13>United States
+<QSLMSG:15>eQSL-QRZ-Direct
+<Address:43>DAVE
+2228 Love Ridge Rd
+Chaplin, KY 40012
+<App_NetLogger_Award_Status:5>MIL:A
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>K6VOR
+<QSO_Date:8>20200609
+<Time_On:6>191430
+<App_NetLogger_ClubMemberId:5>12215
+<Comment:4>FREE
+<Name:6>TAYLOR
+<Band:3>20m
+<RST_Sent:2>57
+<RST_Rcvd:2>57
+<Mode:3>SSB
+<Freq:6>14.286
+<QTH:6>Bethel
+<State:2>CT
+<Cnty:12>CT,Fairfield
+<DXCC:3>291
+<Gridsquare:4>FN31
+<App_NetLogger_Preferred_Name:6>Taylor
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<QSL_Via:23>N Direct--Eqsl--QRZ.com
+<Country:13>United States
+<QSLMSG:15>eQSL-QRZ-Direct
+<Address:45>TAYLOR
+152 CODFISH HILL RD
+Bethel, CT 06801
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>N5GGG
+<QSO_Date:8>20200609
+<Time_On:6>191505
+<App_NetLogger_ClubMemberId:4>9395
+<Comment:4>FREE
+<Name:4>DAVE
+<Band:3>20m
+<RST_Sent:2>55
+<RST_Rcvd:2>55
+<Mode:3>SSB
+<Freq:6>14.286
+<QTH:17>NORTH LITTLE ROCK
+<State:2>AR
+<Cnty:10>AR,PULASKI
+<DXCC:3>291
+<Gridsquare:4>EM34
+<App_NetLogger_Preferred_Name:5>David
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<QSL_Via:24>M D F V T Q N EQSLs-Only
+<Country:13>United States
+<QSLMSG:15>eQSL-QRZ-Direct
+<Address:47>DAVE
+5315 WOOD ST
+NORTH LITTLE ROCK, AR 72118
+<App_NetLogger_Award_Status:19>MIL:AF,FR:DIS,FR:FF
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>WB3CGH
+<QSO_Date:8>20200609
+<Time_On:6>225810
+<Name:18>Michael V Chisholm
+<Band:3>40m
+<RST_Sent:2>33
+<RST_Rcvd:2>57
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:13>Houghton Lake
+<State:2>MI
+<Cnty:12>MI,Roscommon
+<Gridsquare:6>EN74ph
+<App_NetLogger_Preferred_Name:7>Michael
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<Country:13>United States
+<Address:61>Michael V Chisholm
+801 Crestview Rd
+Houghton Lake, MI 48629
+<App_NetLogger_Net:12>NATA 40m Net
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>K4RJT
+<QSO_Date:8>20200609
+<Time_On:6>230643
+<Name:13>Ron Tessitore
+<Band:3>40m
+<RST_Sent:2>33
+<RST_Rcvd:2>21
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:7>Raleigh
+<State:2>NC
+<Cnty:7>NC,Wake
+<DXCC:3>291
+<Gridsquare:6>FM05pw
+<App_NetLogger_Preferred_Name:3>Ron
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<Country:13>United States
+<Address:53>Ron Tessitore
+6117 Charleycote Dr
+Raleigh, NC 27614
+<App_NetLogger_Net:12>NATA 40m Net
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>KJ5IM
+<QSO_Date:8>20200609
+<Time_On:6>230842
+<Comment:13>NCS Alternate
+<Name:13>James D. Byrd
+<Band:3>40m
+<RST_Sent:2>33
+<RST_Rcvd:2>33
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:12>Broken Arrow
+<State:2>OK
+<Cnty:8>OK,Tulsa
+<DXCC:3>291
+<Gridsquare:6>EM26ca
+<App_NetLogger_Preferred_Name:3>Jim
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<QSL_Via:52>Via Eqsl Qrz.com And Buro's (omiss & 3905cc) Or Sase
+<Country:13>United States
+<Address:52>James D. Byrd
+4325 S 4th St
+Broken Arrow, OK 74011
+<App_NetLogger_Net:12>NATA 40m Net
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>W1PEF
+<QSO_Date:8>20200609
+<Time_On:6>232637
+<Comment:13>NCS alternate
+<Name:9>Paul Fink
+<Band:3>40m
+<RST_Sent:2>33
+<RST_Rcvd:2>33
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:7>Amherst
+<State:2>NH
+<Cnty:15>NH,Hillsborough
+<DXCC:3>291
+<Gridsquare:6>FN42eu
+<App_NetLogger_Preferred_Name:4>Paul
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<QSL_Via:28>QRZ,eQSL,LOTW,direct no SASE
+<Country:13>United States
+<Address:43>Paul Fink
+3 Chandler Ln
+Amherst, NH 03031
+<App_NetLogger_Net:12>NATA 40m Net
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>KD8YWF
+<QSO_Date:8>20200609
+<Time_On:6>233421
+<Name:13>James R Barry
+<Band:3>40m
+<RST_Sent:2>22
+<RST_Rcvd:2>22
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:11>Martinsburg
+<State:2>WV
+<Cnty:11>WV,Berkeley
+<DXCC:3>291
+<Gridsquare:6>FM19ak
+<App_NetLogger_Preferred_Name:3>Rob
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<Country:13>United States
+<Address:54>James R Barry
+605 Faulkner Ave
+Martinsburg, WV 25401
+<App_NetLogger_Net:12>NATA 40m Net
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>W7MMZ
+<QSO_Date:8>20200611
+<Time_On:6>212239
+<App_NetLogger_ClubMemberId:5>12063
+<Comment:4>FREE
+<Name:4>DAVE
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.290
+<QTH:13>GRAVOIS MILLS
+<State:2>MO
+<Cnty:9>MO,Morgan
+<DXCC:3>291
+<Gridsquare:4>EM38
+<App_NetLogger_Preferred_Name:5>David
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<QSL_Via:42>E F V T N QRZ-or-eQSL-pref-No-mail-please.
+<Country:13>United States
+<Address:48>DAVE
+31844 LAKEVIEW LN
+GRAVOIS MILLS, MO 65037
+<App_NetLogger_Award_Status:11>FR:EP,FR:FF
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>K7PAC
+<QSO_Date:8>20200611
+<Time_On:6>212428
+<App_NetLogger_ClubMemberId:5>10672
+<Name:3>KEN
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.290
+<QTH:11>Lake Oswego
+<State:2>OR
+<Cnty:12>OR,CLACKAMAS
+<DXCC:3>291
+<Gridsquare:4>CN85
+<App_NetLogger_Preferred_Name:5>James
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<QSL_Via:25>GIB-21 E F Direct-+-LOTW-
+<Country:13>United States
+<Address:48>KEN
+1293 Dapplegrey Lane
+Lake Oswego, OR 97034
+<App_NetLogger_Award_Status:11>FR:EP,FR:FF
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>KD2HCE
+<QSO_Date:8>20200611
+<Time_On:6>225137
+<Name:15>Chris C Trifari
+<Band:3>40m
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:6>Medina
+<State:2>OH
+<Cnty:9>OH,Medina
+<DXCC:3>291
+<Gridsquare:6>EN91bd
+<App_NetLogger_Preferred_Name:5>Chris
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<QSL_Via:32>QRZ eQSL &amp; LoTW only-NO MAIL
+<Country:13>United States
+<Address:45>Chris C Trifari
+PO Box 173
+Medina, OH 44268
+<App_NetLogger_Net:12>NATA 40m Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:4>KF5F
+<QSO_Date:8>20200612
+<Time_On:6>010917
+<App_NetLogger_ClubMemberId:5>11583
+<Name:6>EUGENE
+<Band:3>40m
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:16>Cherokee Village
+<State:2>AR
+<Cnty:9>AR,FULTON
+<DXCC:3>291
+<Gridsquare:4>EM46
+<App_NetLogger_Preferred_Name:6>Eugene
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<QSL_Via:9>GIB-9 M T
+<Country:13>United States
+<Address:53>EUGENE
+13 Pahvanto Drive
+Cherokee Village, AR 72529
+<App_NetLogger_Award_Status:6>MIL:AF
+<App_NetLogger_Net:17>OMISS 40m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>KG5JIM
+<QSO_Date:8>20200612
+<Time_On:6>011240
+<App_NetLogger_ClubMemberId:5>10245
+<Name:3>JIM
+<Band:3>40m
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:5>HOUMA
+<State:2>LA
+<Cnty:13>LA,Terrebonne
+<DXCC:3>291
+<Gridsquare:4>EL49
+<App_NetLogger_Preferred_Name:5>Jimmy
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<QSL_Via:13>GIB-9 V Y Q N
+<Country:13>United States
+<Address:44>JIM
+909 BAYOU DULARGE ROAD
+HOUMA, LA 70363
+<App_NetLogger_Net:17>OMISS 40m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:4>K4LO
+<QSO_Date:8>20200612
+<Time_On:6>011535
+<App_NetLogger_ClubMemberId:4>8416
+<Name:4>PHIL
+<Band:3>40m
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:4>PACE
+<State:2>FL
+<Cnty:13>FL,SANTA ROSA
+<DXCC:3>291
+<Gridsquare:4>EM60
+<App_NetLogger_Preferred_Name:7>Phillip
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<QSL_Via:9>GIB-5 M T
+<Country:13>United States
+<Address:43>PHIL
+4528 TAMARIND DR
+PACE, FL 32571-2850
+<App_NetLogger_Award_Status:5>MIL:N
+<App_NetLogger_Net:17>OMISS 40m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>WB8RWM
+<QSO_Date:8>20200612
+<Time_On:6>011856
+<App_NetLogger_ClubMemberId:4>7327
+<Name:3>BOB
+<Band:3>40m
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:8>FAIRBURY
+<State:2>NE
+<Cnty:12>NE,JEFFERSON
+<DXCC:3>291
+<Gridsquare:4>EN10
+<App_NetLogger_Preferred_Name:6>Robert
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<QSL_Via:31>K D E F V T QRZ.com...or-Direct
+<Country:13>United States
+<Address:39>BOB
+818 4TH STREET
+FAIRBURY, NE 68352
+<App_NetLogger_Award_Status:22>CLG,FR:DIS,FR:EP,FR:FF
+<App_NetLogger_Net:17>OMISS 40m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>KG5WAA
+<QSO_Date:8>20200612
+<Time_On:6>013200
+<App_NetLogger_ClubMemberId:5>11364
+<Name:5>BRIAN
+<Band:3>40m
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:13>Oklahoma City
+<State:2>OK
+<Cnty:12>OK,Cleveland
+<DXCC:3>291
+<Gridsquare:4>EM15
+<App_NetLogger_Preferred_Name:5>Brian
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<QSL_Via:14>C M T No-cards
+<Country:13>United States
+<Address:47>BRIAN
+3100 SW 93rd St
+Oklahoma City, OK 73159
+<App_NetLogger_Award_Status:8>MIL:A,SC
+<App_NetLogger_Net:17>OMISS 40m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>W4DFR
+<QSO_Date:8>20200612
+<Time_On:6>013739
+<App_NetLogger_ClubMemberId:4>8867
+<Name:4>DAVE
+<Band:3>40m
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:7>Chaplin
+<State:2>KY
+<Cnty:9>KY,NELSON
+<DXCC:3>291
+<Gridsquare:4>EM77
+<App_NetLogger_Preferred_Name:5>David
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<QSL_Via:29>GIB-5 M V T N LOTW--eqsl--qrz
+<Country:13>United States
+<Address:43>DAVE
+2228 Love Ridge Rd
+Chaplin, KY 40012
+<App_NetLogger_Award_Status:5>MIL:A
+<App_NetLogger_Net:17>OMISS 40m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>N4PIE
+<QSO_Date:8>20200612
+<Time_On:6>014144
+<App_NetLogger_ClubMemberId:5>12281
+<Name:3>TOM
+<Band:3>40m
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:10>Plant City
+<State:2>FL
+<Cnty:15>FL,Hillsborough
+<DXCC:3>291
+<Gridsquare:4>EL88
+<App_NetLogger_Preferred_Name:6>Thomas
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<QSL_Via:18>M T N QRZ--Digital
+<Country:13>United States
+<Address:48>TOM
+387 Hummingbird place
+Plant City, FL 33565
+<App_NetLogger_Net:17>OMISS 40m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>KF5VQS
+<QSO_Date:8>20200612
+<Time_On:6>014831
+<App_NetLogger_ClubMemberId:5>12435
+<Name:4>ALAN
+<Band:3>40m
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:9>Yellville
+<State:2>AR
+<Cnty:9>AR,MARION
+<DXCC:3>291
+<Gridsquare:4>EM36
+<App_NetLogger_Preferred_Name:4>Alan
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<QSL_Via:5>GIB-1
+<Country:13>United States
+<Address:44>ALAN
+107 La Paloma Cir
+Yellville, AR 72687
+<App_NetLogger_Net:17>OMISS 40m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>W0RFP
+<QSO_Date:8>20200612
+<Time_On:6>032241
+<App_NetLogger_ClubMemberId:5>12488
+<Name:4>JAKE
+<Band:3>80m
+<Mode:3>SSB
+<Freq:5>3.828
+<QTH:7>Bemidji
+<State:2>MN
+<Cnty:11>MN,BELTRAMI
+<DXCC:3>291
+<Gridsquare:4>EN27
+<App_NetLogger_Preferred_Name:5>Jacob
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<QSL_Via:5>GIB-1
+<Country:13>United States
+<Address:45>JAKE
+2418 Carr Lake Rd SW
+Bemidji, MN 56601
+<App_NetLogger_Net:17>OMISS 80m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>KC2BBU
+<QSO_Date:8>20200612
+<Time_On:6>032446
+<App_NetLogger_ClubMemberId:5>12410
+<Name:5>CHRIS
+<Band:3>80m
+<RST_Sent:2>37
+<Mode:3>SSB
+<Freq:5>3.828
+<QTH:9>KIRKVILLE
+<State:2>NY
+<Cnty:10>NY,Madison
+<DXCC:3>291
+<Gridsquare:4>FN23
+<App_NetLogger_Preferred_Name:11>Christopher
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<QSL_Via:13>LoTW-QRZ-eQSL
+<Country:13>United States
+<Address:41>CHRIS
+7826 ADAMS RD
+KIRKVILLE, NY 13082
+<App_NetLogger_Net:17>OMISS 80m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>W4DFR
+<QSO_Date:8>20200612
+<Time_On:6>033129
+<App_NetLogger_ClubMemberId:4>8867
+<Name:4>DAVE
+<Band:3>80m
+<Mode:3>SSB
+<Freq:5>3.828
+<QTH:7>Chaplin
+<State:2>KY
+<Cnty:9>KY,NELSON
+<DXCC:3>291
+<Gridsquare:4>EM77
+<App_NetLogger_Preferred_Name:5>David
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<QSL_Via:29>GIB-5 M V T N LOTW--eqsl--qrz
+<Country:13>United States
+<Address:43>DAVE
+2228 Love Ridge Rd
+Chaplin, KY 40012
+<App_NetLogger_Award_Status:5>MIL:A
+<App_NetLogger_Net:17>OMISS 80m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>KB6WHT
+<QSO_Date:8>20200612
+<Time_On:6>033258
+<App_NetLogger_ClubMemberId:4>5704
+<Name:5>JAMES
+<Band:3>80m
+<Mode:3>SSB
+<Freq:5>3.828
+<QTH:6>OTTAWA
+<State:2>KS
+<Cnty:10>KS,DOUGLAS
+<DXCC:3>291
+<Gridsquare:4>EM28
+<App_NetLogger_Preferred_Name:5>James
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<QSL_Via:7>GIB-1 M
+<Country:13>United States
+<Address:51>JAMES
+635 North Cleveland Street
+OTTAWA, KS 66067
+<App_NetLogger_Award_Status:5>MIL:A
+<App_NetLogger_Net:17>OMISS 80m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>N8FTJ
+<QSO_Date:8>20200612
+<Time_On:6>033516
+<App_NetLogger_ClubMemberId:4>1502
+<Name:3>JIM
+<Band:3>80m
+<Mode:3>SSB
+<Freq:5>3.828
+<QTH:7>CLINTON
+<State:2>OH
+<Cnty:9>OH,SUMMIT
+<DXCC:3>291
+<Gridsquare:4>EN90
+<App_NetLogger_Preferred_Name:3>Jim
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<QSL_Via:10>GIB-14 M T
+<Country:13>United States
+<Address:43>JIM
+5615 S ARLINGTON RD
+CLINTON, OH 44216
+<App_NetLogger_Award_Status:5>MIL:A
+<App_NetLogger_Net:17>OMISS 80m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>N2KED
+<QSO_Date:8>20200612
+<Time_On:6>040237
+<App_NetLogger_ClubMemberId:5>10429
+<Name:4>DAVE
+<Band:3>80m
+<RST_Sent:2>33
+<RST_Rcvd:2>55
+<Mode:3>SSB
+<Freq:5>3.828
+<QTH:12>POUGHKEEPSIE
+<State:2>NY
+<Cnty:11>NY,DUTCHESS
+<DXCC:3>291
+<Gridsquare:4>FN31
+<App_NetLogger_Preferred_Name:5>David
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<QSL_Via:27>GIB-6 M V T N LoTW-QRZ-eQSL
+<Country:13>United States
+<Address:44>DAVE
+7 Kennedy Road
+POUGHKEEPSIE, NY 12601
+<App_NetLogger_Award_Status:5>MIL:A
+<App_NetLogger_Net:17>OMISS 80m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:4>WL7X
+<QSO_Date:8>20200612
+<Time_On:6>184640
+<App_NetLogger_ClubMemberId:4>7889
+<Name:3>KEN
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.290
+<QTH:10>NORTH POLE
+<State:2>AK
+<Cnty:23>AK,FAIRBANKS NORTH STAR
+<DXCC:1>6
+<Gridsquare:4>BP64
+<App_NetLogger_Preferred_Name:7>Kenneth
+<Operator:6>KD0MGE
+<QSL_Via:36>GIB-2 T Buro--e-QSL-QRZ-LoTW-direct-
+<Country:13>United States
+<Address:52>KEN
+1743 PARHAM MC CORMICK RD
+NORTH POLE, AK 99705
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>KI4YTV
+<QSO_Date:8>20200613
+<Time_On:6>225539
+<Comment:12>NCS Thursday
+<Name:13>Ed F La Fauci
+<Band:3>40m
+<Mode:3>SSB
+<Freq:5>7.186
+<QTH:12>New Brockton
+<State:2>AL
+<Cnty:9>AL,Coffee
+<DXCC:3>291
+<Gridsquare:6>EM71aj
+<App_NetLogger_Preferred_Name:2>Ed
+<Operator:6>KD0MGE
+<Country:13>United States
+<Address:56>Ed F La Fauci
+513 North John st
+New Brockton, AL 36351
+<App_NetLogger_Net:12>NATA 40m Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>WZ4DAY
+<QSO_Date:8>20200613
+<Time_On:6>225614
+<Name:11>Jerry R Day
+<Band:3>40m
+<Mode:3>SSB
+<Freq:5>7.186
+<QTH:7>Sturgis
+<State:2>KY
+<Cnty:8>KY,Union
+<DXCC:3>291
+<Gridsquare:6>EM67an
+<App_NetLogger_Preferred_Name:5>Jerry
+<Operator:6>KD0MGE
+<QSL_Via:19>Wz4day229@gmail.com
+<Country:13>United States
+<Address:53>Jerry R Day
+815 NORTH MAIN STREET
+Sturgis, KY 42459
+<App_NetLogger_Net:12>NATA 40m Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:4>WO4L
+<QSO_Date:8>20200615
+<Time_On:6>184329
+<App_NetLogger_ClubMemberId:3>977
+<Name:3>BOB
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.290
+<QTH:11>East Berlin
+<State:2>PA
+<Cnty:8>PA,ADAMS
+<DXCC:3>291
+<Gridsquare:4>FM19
+<Operator:6>KD0MGE
+<QSL_Via:38>GIB-19 M V Y Q N BURO-EQSL-LOTW-DIRECT
+<Country:13>United States
+<Address:43>BOB
+74 Curtis Drive
+East Berlin, PA 17316
+<App_NetLogger_Award_Status:6>MIL:AF
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>WB3CGH
+<QSO_Date:8>20200615
+<Time_On:6>231053
+<Name:18>Michael V Chisholm
+<Band:3>40m
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:13>Houghton Lake
+<State:2>MI
+<Cnty:12>MI,Roscommon
+<Gridsquare:6>EN74ph
+<App_NetLogger_Preferred_Name:7>Michael
+<Operator:6>KD0MGE
+<Country:13>United States
+<Address:61>Michael V Chisholm
+801 Crestview Rd
+Houghton Lake, MI 48629
+<App_NetLogger_Net:12>NATA 40m Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>N4RRR
+<QSO_Date:8>20200615
+<Time_On:6>232927
+<Comment:14>Awards Manager
+<Name:20>DJ Finch Jr. (Duane)
+<Band:3>40m
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:12>St Augustine
+<State:2>FL
+<Cnty:14>FL,Saint Johns
+<Gridsquare:6>EL99hu
+<App_NetLogger_Preferred_Name:2>DJ
+<Operator:6>KD0MGE
+<QSL_Via:23>LOTW QRZ eQSL or Direct
+<Country:13>United States
+<Address:68>DJ Finch Jr. (Duane)
+2515 Deerwood Acres Dr
+St Augustine, FL 32084
+<App_NetLogger_Net:12>NATA 40m Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>W8DKC
+<QSO_Date:8>20200615
+<Time_On:6>233011
+<Name:15>George E Majdak
+<Band:3>40m
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:7>Jenison
+<State:2>MI
+<Cnty:9>MI,Ottawa
+<DXCC:3>291
+<Gridsquare:6>EN72cv
+<App_NetLogger_Preferred_Name:6>George
+<Operator:6>KD0MGE
+<Country:13>United States
+<Address:57>George E Majdak
+1561 N Teal Waters Dr
+Jenison, MI 49428
+<App_NetLogger_Net:12>NATA 40m Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>KF7UX
+<QSO_Date:8>20200616
+<Time_On:6>190009
+<App_NetLogger_ClubMemberId:4>2167
+<Name:3>BOB
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.287
+<QTH:7>REXBURG
+<State:2>ID
+<Cnty:10>ID,MADISON
+<DXCC:3>291
+<Gridsquare:4>DN43
+<App_NetLogger_Preferred_Name:6>Robert
+<Operator:6>KD0MGE
+<QSL_Via:27>M F V T Y Q N NoCardsPlease
+<Country:13>United States
+<Address:37>BOB
+3789 W 2000 N
+REXBURG, ID 83440
+<App_NetLogger_Award_Status:11>MIL:N,FR:FF
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>KC1ILH
+<QSO_Date:8>20200616
+<Time_On:6>190600
+<App_NetLogger_ClubMemberId:5>12254
+<Name:6>DANIEL
+<Band:3>20m
+<RST_Sent:2>22
+<RST_Rcvd:2>33
+<Mode:3>SSB
+<Freq:6>14.287
+<QTH:10>Manchester
+<State:2>NH
+<Cnty:15>NH,HILLSBOROUGH
+<DXCC:3>291
+<Gridsquare:4>FN43
+<App_NetLogger_Preferred_Name:6>Daniel
+<Operator:6>KD0MGE
+<QSL_Via:28>GIB-9 M eQSL-LoTW-QRZ-Direct
+<Country:13>United States
+<Address:42>DANIEL
+26 Acorn Cir
+Manchester, NH 03102
+<App_NetLogger_Award_Status:5>MIL:N
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:4>WY6T
+<QSO_Date:8>20200616
+<Time_On:6>190708
+<App_NetLogger_ClubMemberId:4>8988
+<Name:3>DON
+<Band:3>20m
+<RST_Sent:2>55
+<RST_Rcvd:2>55
+<Mode:3>SSB
+<Freq:6>14.287
+<QTH:9>Tehachapi
+<State:2>CA
+<Cnty:7>CA,KERN
+<DXCC:3>291
+<Gridsquare:4>DM05
+<App_NetLogger_Preferred_Name:6>Donald
+<Operator:6>KD0MGE
+<QSL_Via:23>V Q N eQSL(AG)-LOTW-QRZ
+<Country:13>United States
+<Address:62>DON
+25970 Jacaranda Dr. PO BOX 1347
+Tehachapi, CA 93581-1347
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>K7PAC
+<QSO_Date:8>20200616
+<Time_On:6>190820
+<App_NetLogger_ClubMemberId:5>10672
+<Name:3>KEN
+<Band:3>20m
+<RST_Sent:2>55
+<RST_Rcvd:2>55
+<Mode:3>SSB
+<Freq:6>14.287
+<QTH:11>Lake Oswego
+<State:2>OR
+<Cnty:12>OR,CLACKAMAS
+<DXCC:3>291
+<Gridsquare:4>CN85
+<App_NetLogger_Preferred_Name:5>James
+<Operator:6>KD0MGE
+<QSL_Via:25>GIB-21 E F Direct-+-LOTW-
+<Country:13>United States
+<Address:48>KEN
+1293 Dapplegrey Lane
+Lake Oswego, OR 97034
+<App_NetLogger_Award_Status:11>FR:EP,FR:FF
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>WD5CSK
+<QSO_Date:8>20200616
+<Time_On:6>195748
+<App_NetLogger_ClubMemberId:5>10641
+<Name:3>RON
+<Band:3>20m
+<RST_Sent:2>55
+<RST_Rcvd:2>57
+<Mode:3>SSB
+<Freq:6>14.287
+<QTH:6>Edmond
+<State:2>OK
+<Cnty:11>OK,Oklahoma
+<DXCC:3>291
+<Gridsquare:4>EM15
+<App_NetLogger_Preferred_Name:6>Ronald
+<Operator:6>KD0MGE
+<QSL_Via:31>GIB-5 T N LoTW--Direct-eQSL-QRZ
+<Country:13>United States
+<Address:40>RON
+5708 Northwood Dr
+Edmond, OK 73034
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>W1XMM
+<QSO_Date:8>20200616
+<Time_On:6>195815
+<App_NetLogger_ClubMemberId:5>11415
+<Name:5>BRIAN
+<Band:3>20m
+<RST_Sent:2>33
+<RST_Rcvd:2>33
+<Mode:3>SSB
+<Freq:6>14.287
+<QTH:6>ANTRIM
+<State:2>NH
+<Cnty:15>NH,HILLSBOROUGH
+<DXCC:3>291
+<Gridsquare:4>FN42
+<App_NetLogger_Preferred_Name:5>Brian
+<Operator:6>KD0MGE
+<QSL_Via:38>M E F LoTW-or-eQSL-or-QRZ-or-QSL-cards
+<Country:13>United States
+<Address:38>BRIAN
+96 ELM AVENUE
+ANTRIM, NH 03440
+<App_NetLogger_Award_Status:17>MIL:A,FR:EP,FR:FF
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>K7RCR
+<QSO_Date:8>20200617
+<Time_On:6>184210
+<App_NetLogger_ClubMemberId:5>11696
+<Name:4>RICK
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.291
+<QTH:9>SAHUARITA
+<State:2>AZ
+<Cnty:9>AZ,APACHE
+<DXCC:3>291
+<Gridsquare:4>DM41
+<App_NetLogger_Preferred_Name:7>Richard
+<Operator:6>KD0MGE
+<QSL_Via:24>GIB-7 M LOTW-Only-Direct
+<Country:13>United States
+<Address:49>RICK
+15747 S AVENIDA CUAIMA
+SAHUARITA, AZ 85629
+<App_NetLogger_MP_Status:1>P
+<App_NetLogger_Award_Status:6>MIL:AF
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>N5KUC
+<QSO_Date:8>20200617
+<Time_On:6>184536
+<App_NetLogger_ClubMemberId:4>5955
+<Name:3>BOB
+<Band:3>20m
+<RST_Sent:2>59
+<RST_Rcvd:2>57
+<Mode:3>SSB
+<Freq:6>14.291
+<QTH:9>BROWNWOOD
+<State:2>TX
+<Cnty:8>TX,BROWN
+<DXCC:3>291
+<Gridsquare:4>EM01
+<App_NetLogger_Preferred_Name:6>Robert
+<Operator:6>KD0MGE
+<QSL_Via:7>GIB-2 M
+<Country:13>United States
+<Address:46>BOB
+4280 COUNTY ROAD 103
+BROWNWOOD, TX 76801
+<App_NetLogger_Award_Status:5>MIL:N
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:4>AB0N
+<QSO_Date:8>20200617
+<Time_On:6>184646
+<App_NetLogger_ClubMemberId:5>11819
+<Comment:2>MI
+<Name:5>DAVID
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.291
+<QTH:10>PRIOR LAKE
+<State:2>MN
+<Cnty:8>MN,SCOTT
+<DXCC:3>291
+<Gridsquare:4>EN34
+<App_NetLogger_Preferred_Name:5>David
+<Operator:6>KD0MGE
+<QSL_Via:21>GIB-3 M LoTW-QRZ-Mail
+<Country:13>United States
+<Address:55>DAVID
+4003 WILLOWWOOD ST SE
+PRIOR LAKE, MN 55372-4303
+<App_NetLogger_Award_Status:3>MIL
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>K3BEM
+<QSO_Date:8>20200617
+<Time_On:6>233549
+<Comment:14>(no club info)
+<Band:3>10m
+<Mode:3>SSB
+<Freq:6>28.320
+<Operator:6>KD0MGE
+<App_NetLogger_Net:19>Mason Dixon SSB Net
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>AA5JC
+<QSO_Date:8>20200620
+<Time_On:6>231653
+<Name:16>Joshua L Carroll
+<Band:3>40m
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:11>Little Rock
+<State:2>AR
+<Cnty:10>AR,Pulaski
+<DXCC:3>291
+<Gridsquare:6>EM34rs
+<App_NetLogger_Preferred_Name:6>Joshua
+<Operator:6>KD0MGE
+<QSL_Via:35>LoTW DIRECT OR VIA OMISS QSL BUREAU
+<Country:13>United States
+<Address:59>Joshua L Carroll
+25 Waldenwood Lane
+Little Rock, AR 72223
+<App_NetLogger_Net:12>NATA 40m Net
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>WB0YBZ
+<QSO_Date:8>20200623
+<Time_On:6>015847
+<App_NetLogger_ClubMemberId:5>10259
+<Name:3>KEN
+<Band:3>40m
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:11>Kansas City
+<State:2>MO
+<Cnty:7>MO,Clay
+<DXCC:3>291
+<Gridsquare:4>EM29
+<App_NetLogger_Preferred_Name:7>Kenneth
+<Operator:6>KD0MGE
+<QSL_Via:33>T N M-Direct-QRZ-eQSL-LoTW-Please
+<Country:13>United States
+<Address:47>KEN
+10600 Ne 102nd Terr
+Kansas City, MO 64157
+<App_NetLogger_Net:17>OMISS 40m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>AB0GT
+<QSO_Date:8>20200623
+<Time_On:6>024041
+<App_NetLogger_ClubMemberId:4>8683
+<Comment:16>P/OGLE COUNTY IL
+<Name:4>JOHN
+<Band:3>40m
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:5>Cadet
+<State:2>IL
+<Cnty:7>IL,OGLE
+<DXCC:3>291
+<Gridsquare:4>EN82
+<App_NetLogger_Preferred_Name:4>John
+<Operator:6>KD0MGE
+<QSL_Via:33>M V T Q N (NO-MAIL)-EQSL-LOTW-QRZ
+<Country:13>United States
+<Address:39>JOHN
+10151 Seagull Rd
+Cadet, IL 63630
+<App_NetLogger_MP_Status:1>P
+<App_NetLogger_Award_Status:5>MIL:A
+<App_NetLogger_Net:17>OMISS 40m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>WD5CSK
+<QSO_Date:8>20200623
+<Time_On:6>024130
+<App_NetLogger_ClubMemberId:5>10641
+<Name:3>RON
+<Band:3>40m
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:6>Edmond
+<State:2>OK
+<Cnty:11>OK,Oklahoma
+<DXCC:3>291
+<Gridsquare:4>EM15
+<App_NetLogger_Preferred_Name:6>Ronald
+<Operator:6>KD0MGE
+<QSL_Via:31>GIB-4 T N LoTW--Direct-eQSL-QRZ
+<Country:13>United States
+<Address:40>RON
+5708 Northwood Dr
+Edmond, OK 73034
+<App_NetLogger_Net:17>OMISS 40m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:4>AI8O
+<QSO_Date:8>20200623
+<Time_On:6>024454
+<App_NetLogger_ClubMemberId:5>12140
+<Name:6>DANIEL
+<Band:3>40m
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:9>Lexington
+<State:2>NC
+<Cnty:11>NC,Davidson
+<DXCC:3>291
+<Gridsquare:4>EM95
+<App_NetLogger_Preferred_Name:6>Daniel
+<Operator:6>KD0MGE
+<QSL_Via:13>GIB-1 D E F P
+<Country:13>United States
+<Address:52>DANIEL
+299 Homestead Road
+Lexington, NC 27292-8350
+<App_NetLogger_Award_Status:25>FR:DIS,FR:EP,FR:FF,FR:POL
+<App_NetLogger_Net:17>OMISS 40m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>W0DOK
+<QSO_Date:8>20200624
+<Time_On:6>011845
+<App_NetLogger_ClubMemberId:5>11047
+<Name:3>DOC
+<Band:3>40m
+<RST_Sent:2>45
+<RST_Rcvd:2>57
+<Mode:3>SSB
+<Freq:5>7.182
+<QTH:9>Littleton
+<State:2>CO
+<Cnty:12>CO,Jefferson
+<DXCC:3>291
+<Gridsquare:4>DM79
+<App_NetLogger_Preferred_Name:4>Mike
+<Operator:6>KD0MGE
+<Country:13>United States
+<Address:50>DOC
+9108 W Radcliffe Dr
+Littleton, CO 80123-1126
+<App_NetLogger_Net:17>OMISS 40m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>W7ISS
+<QSO_Date:8>20200625
+<Time_On:6>200521
+<App_NetLogger_ClubMemberId:5>12468
+<Name:4>MARK
+<Band:3>20m
+<RST_Sent:2>59
+<RST_Rcvd:2>59
+<Mode:3>SSB
+<Freq:6>14.290
+<QTH:10>Centennial
+<State:2>CO
+<Cnty:11>CO,Arapahoe
+<DXCC:3>291
+<Gridsquare:4>DM79
+<App_NetLogger_Preferred_Name:4>Mark
+<Operator:6>KD0MGE
+<QSL_Via:17>M QRZ-LoTW-DIRECT
+<Country:13>United States
+<Address:48>MARK
+4195 E. Peakview Cir
+Centennial, CO 80121
+<App_NetLogger_Award_Status:5>MIL:N
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>N9EAZ
+<QSO_Date:8>20200625
+<Time_On:6>231224
+<Name:15>Daniel R Henney
+<Band:3>40m
+<RST_Sent:2>55
+<RST_Rcvd:2>33
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:9>Deerfield
+<State:2>WI
+<Cnty:7>WI,Dane
+<DXCC:3>291
+<Gridsquare:6>EN53kb
+<App_NetLogger_Preferred_Name:6>Daniel
+<Operator:6>KD0MGE
+<QSL_Via:26>direct lotw qrz &amp; eqsl
+<Country:13>United States
+<Address:52>Daniel R Henney
+1385 Hommen Rd
+Deerfield, WI 53531
+<App_NetLogger_Net:12>NATA 40m Net
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>NJ2US
+<QSO_Date:8>20200625
+<Time_On:6>234312
+<Name:15>Jeffrey J Doran
+<Band:3>40m
+<RST_Sent:2>55
+<RST_Rcvd:2>55
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:8>Woodbine
+<State:2>NJ
+<Cnty:3>NJ,
+<App_NetLogger_Preferred_Name:7>Jeffrey
+<Operator:6>KD0MGE
+<Country:13>United States
+<Address:31>Jeffrey J Doran
+
+Woodbine, NJ
+<App_NetLogger_Net:12>NATA 40m Net
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>W7ISS
+<QSO_Date:8>20200625
+<Time_On:6>234435
+<Name:15>Mark L Chaffins
+<Band:3>40m
+<RST_Sent:2>57
+<RST_Rcvd:2>55
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:10>Centennial
+<State:2>CO
+<Cnty:11>CO,Arapahoe
+<DXCC:3>291
+<Gridsquare:6>DM79mo
+<App_NetLogger_Preferred_Name:4>Mark
+<Operator:6>KD0MGE
+<QSL_Via:13>QRZ LoTW eQSL
+<Country:13>United States
+<Address:59>Mark L Chaffins
+4195 E. Peakview Cir
+Centennial, CO 80121
+<App_NetLogger_Net:12>NATA 40m Net
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>WA5CAT
+<QSO_Date:8>20200629
+<Time_On:6>023021
+<App_NetLogger_ClubMemberId:5>11055
+<Comment:3>NCS
+<Name:2>ED
+<Band:3>40m
+<RST_Sent:2>21
+<RST_Rcvd:2>55
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:10>Alamogordo
+<State:2>NM
+<Cnty:8>NM,OTERO
+<DXCC:3>291
+<Gridsquare:4>DM72
+<App_NetLogger_Preferred_Name:2>Ed
+<Operator:6>KD0MGE
+<QSL_Via:21>V Q N QRZ-LOTW-DIRECT
+<Country:13>United States
+<Address:44>ED
+56 Danley Ranch Rd
+Alamogordo, NM 88310
+<App_NetLogger_Net:17>OMISS 40m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>KA7MPX
+<QSO_Date:8>20200702
+<Time_On:6>022734
+<App_NetLogger_ClubMemberId:4>4910
+<Name:4>RUSS
+<Band:3>40m
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:7>NEWPORT
+<State:2>WA
+<Cnty:15>WA,PEND OREILLE
+<DXCC:3>291
+<Gridsquare:4>DN18
+<App_NetLogger_Preferred_Name:7>Russell
+<Operator:6>KD0MGE
+<QSL_Via:10>GIB-10 V T
+<Country:13>United States
+<Address:41>RUSS
+322852 HIGHWAY 2
+NEWPORT, WA 99156
+<App_NetLogger_Net:17>OMISS 40m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>K6ODI
+<QSO_Date:8>20200702
+<Time_On:6>022745
+<App_NetLogger_ClubMemberId:5>11616
+<Name:7>MICHAEL
+<Band:3>40m
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:9>Roseville
+<State:2>CA
+<Cnty:9>CA,Placer
+<DXCC:3>291
+<Gridsquare:4>CM98
+<App_NetLogger_Preferred_Name:7>Michael
+<Operator:6>KD0MGE
+<QSL_Via:30>M V T Y Q N (No-Mail)-Lotw-QRZ
+<Country:13>United States
+<Address:42>MICHAEL
+745 Grove St
+Roseville, CA 95678
+<App_NetLogger_Award_Status:3>MIL
+<App_NetLogger_Net:17>OMISS 40m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>KD2HCE
+<QSO_Date:8>20200708
+<Time_On:6>000934
+<Name:15>Chris C Trifari
+<Band:3>40m
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:6>Medina
+<State:2>OH
+<Cnty:9>OH,Medina
+<DXCC:3>291
+<Gridsquare:6>EN91bd
+<App_NetLogger_Preferred_Name:5>Chris
+<Operator:6>KD0MGE
+<QSL_Via:32>QRZ eQSL &amp; LoTW only-NO MAIL
+<Country:13>United States
+<Address:46>Chris C Trifari
+PO Box 1373
+Medina, OH 44268
+<App_NetLogger_Net:12>NATA 40m Net
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>WB3CGH
+<QSO_Date:8>20200708
+<Time_On:6>001252
+<Name:18>Michael V Chisholm
+<Band:3>40m
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:13>Houghton Lake
+<State:2>MI
+<Cnty:12>MI,Roscommon
+<Gridsquare:6>EN74ph
+<App_NetLogger_Preferred_Name:7>Michael
+<Operator:6>KD0MGE
+<Country:13>United States
+<Address:61>Michael V Chisholm
+801 Crestview Rd
+Houghton Lake, MI 48629
+<App_NetLogger_Net:12>NATA 40m Net
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>KF7UX
+<QSO_Date:8>20200715
+<Time_On:6>183610
+<App_NetLogger_ClubMemberId:4>2167
+<Name:3>BOB
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.291
+<QTH:7>REXBURG
+<State:2>ID
+<Cnty:10>ID,MADISON
+<DXCC:3>291
+<Gridsquare:4>DN43
+<App_NetLogger_Preferred_Name:6>Robert
+<Operator:6>KD0MGE
+<QSL_Via:27>M F V T Y Q N NoCardsPlease
+<Country:13>United States
+<Address:37>BOB
+3789 W 2000 N
+REXBURG, ID 83440
+<App_NetLogger_Award_Status:11>MIL:N,FR:FF
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>W2ZMZ
+<QSO_Date:8>20200715
+<Time_On:6>184126
+<App_NetLogger_ClubMemberId:5>12111
+<Name:4>CONO
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.291
+<QTH:5>Wayne
+<State:2>NJ
+<Cnty:10>NJ,PASSAIC
+<DXCC:3>291
+<Gridsquare:4>FN20
+<App_NetLogger_Preferred_Name:4>Cono
+<Operator:6>KD0MGE
+<QSL_Via:21>GIB-9 N LoTW-eQSL-QRZ
+<Country:13>United States
+<Address:39>CONO
+PO BOX 3703
+Wayne, NJ 07474-3703
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>KG5PBJ
+<QSO_Date:8>20200715
+<Time_On:6>191730
+<App_NetLogger_ClubMemberId:5>12099
+<Comment:1>9
+<Name:5>KEITH
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.291
+<QTH:5>Walls
+<State:2>MS
+<Cnty:9>MS,DeSoto
+<DXCC:3>291
+<Gridsquare:4>EM44
+<App_NetLogger_Preferred_Name:6>Edward
+<Operator:6>KD0MGE
+<QSL_Via:29>M Good-on-QRZ---EQSLor-direct
+<Country:13>United States
+<Address:46>KEITH
+7487 Broken Hickory Dr
+Walls, MS 38680
+<App_NetLogger_Award_Status:5>MIL:N
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>KE8GWX
+<QSO_Date:8>20200715
+<Time_On:6>194359
+<App_NetLogger_ClubMemberId:5>12549
+<Comment:2>27
+<Name:6>ROBERT
+<Band:3>20m
+<RST_Sent:2>33
+<RST_Rcvd:2>33
+<Mode:3>SSB
+<Freq:6>14.291
+<QTH:6>Harrah
+<State:2>OK
+<Cnty:11>OK,Oklahoma
+<DXCC:3>291
+<Gridsquare:4>EM15
+<App_NetLogger_Preferred_Name:6>Robert
+<Operator:6>KD0MGE
+<QSL_Via:36>GIB-11 M P R LoTW--eQSL--QRZ--Direct
+<Country:13>United States
+<Address:56>ROBERT
+19306 Cardinal Creek Dr N
+Harrah, OK 73045-6346
+<App_NetLogger_Award_Status:13>MIL:AF,FR:POL
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>N8FTJ
+<QSO_Date:8>20200715
+<Time_On:6>195437
+<App_NetLogger_ClubMemberId:4>1502
+<Name:3>JIM
+<Band:3>20m
+<RST_Sent:2>33
+<RST_Rcvd:2>55
+<Mode:3>SSB
+<Freq:6>14.291
+<QTH:7>CLINTON
+<State:2>OH
+<Cnty:9>OH,SUMMIT
+<DXCC:3>291
+<Gridsquare:4>EN90
+<App_NetLogger_Preferred_Name:3>Jim
+<Operator:6>KD0MGE
+<QSL_Via:10>GIB-11 M T
+<Country:13>United States
+<Address:43>JIM
+5615 S ARLINGTON RD
+CLINTON, OH 44216
+<App_NetLogger_Award_Status:5>MIL:A
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>W4MUF
+<QSO_Date:8>20200729
+<Time_On:6>200729
+<App_NetLogger_ClubMemberId:5>11691
+<Name:5>JIMMY
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.290
+<QTH:12>Mount Juliet
+<State:2>TN
+<Cnty:9>TN,WILSON
+<Gridsquare:4>EM66
+<App_NetLogger_Preferred_Name:5>Jimmy
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<QSL_Via:15>LotW--QRZ--eQSL
+<Country:13>United States
+<Address:46>JIMMY
+302 Tararack Ct
+Mount Juliet, TN 37122
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:4>N4UP
+<QSO_Date:8>20200730
+<Time_On:6>163520
+<App_NetLogger_ClubMemberId:4>9203
+<Comment:7>COMBO 2
+<Name:5>PETER
+<Band:3>12m
+<Mode:3>SSB
+<Freq:6>24.980
+<QTH:8>Victoria
+<State:2>VA
+<Cnty:12>VA,LUNENBURG
+<DXCC:3>291
+<Gridsquare:4>FM07
+<App_NetLogger_Preferred_Name:5>Peter
+<Operator:6>KD0MGE
+<QSL_Via:22>M T N eQSL-LoTW-Direct
+<Country:13>United States
+<Address:38>PETER
+Po Box 1306
+Victoria, VA 23974
+<App_NetLogger_Award_Status:6>MIL:AF
+<App_NetLogger_Net:17>OMISS 12m SSB Net
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>KG5PBJ
+<QSO_Date:8>20200730
+<Time_On:6>173934
+<App_NetLogger_ClubMemberId:5>12099
+<Name:5>KEITH
+<Band:3>12m
+<Mode:3>SSB
+<Freq:6>24.980
+<QTH:5>Walls
+<State:2>MS
+<Cnty:9>MS,DeSoto
+<DXCC:3>291
+<Gridsquare:4>EM44
+<App_NetLogger_Preferred_Name:6>Edward
+<Operator:6>KD0MGE
+<QSL_Via:29>M Good-on-QRZ---EQSLor-direct
+<Country:13>United States
+<Address:46>KEITH
+7487 Broken Hickory Dr
+Walls, MS 38680
+<App_NetLogger_Award_Status:5>MIL:N
+<App_NetLogger_Net:17>OMISS 12m SSB Net
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:4>W5IL
+<QSO_Date:8>20200730
+<Time_On:6>191847
+<App_NetLogger_ClubMemberId:5>12756
+<Name:7>RICHARD
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.290
+<QTH:10>LOS ALAMOS
+<State:2>NM
+<Cnty:13>NM,Los Alamos
+<DXCC:3>291
+<Gridsquare:4>DM65
+<App_NetLogger_Preferred_Name:7>Richard
+<Operator:6>KD0MGE
+<QSL_Via:8>GIB-10 M
+<Country:13>United States
+<Address:41>RICHARD
+PO BOX 834
+LOS ALAMOS, NM 87544
+<App_NetLogger_Award_Status:5>MIL:A
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>KG5WAA
+<QSO_Date:8>20200731
+<Time_On:6>191625
+<App_NetLogger_ClubMemberId:5>11364
+<Name:5>BRIAN
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.290
+<QTH:13>Oklahoma City
+<State:2>OK
+<Cnty:12>OK,Cleveland
+<DXCC:3>291
+<Gridsquare:4>EM15
+<App_NetLogger_Preferred_Name:5>Brian
+<Operator:6>KD0MGE
+<QSL_Via:14>C M T No-cards
+<Country:13>United States
+<Address:26>BRIAN
+
+Oklahoma City, OK
+<App_NetLogger_Award_Status:8>MIL:A,SC
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>W4QMT
+<QSO_Date:8>20200731
+<Time_On:6>193059
+<App_NetLogger_ClubMemberId:5>12501
+<Name:6>CALVIN
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.290
+<QTH:10>Rocky Face
+<State:2>GA
+<Cnty:12>GA,Whitfield
+<DXCC:3>291
+<Gridsquare:4>EM74
+<App_NetLogger_Preferred_Name:6>Calvin
+<Operator:6>KD0MGE
+<QSL_Via:28>GIB-7 M LoTH-eQSL-QRZ-Direct
+<Country:13>United States
+<Address:24>CALVIN
+
+Rocky Face, GA
+<App_NetLogger_Award_Status:6>MIL:AF
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>N2KED
+<QSO_Date:8>20200731
+<Time_On:6>200942
+<App_NetLogger_ClubMemberId:5>10429
+<Name:4>DAVE
+<Band:3>20m
+<RST_Sent:2>55
+<RST_Rcvd:2>59
+<Mode:3>SSB
+<Freq:6>14.290
+<QTH:12>POUGHKEEPSIE
+<State:2>NY
+<Cnty:11>NY,DUTCHESS
+<DXCC:3>291
+<Gridsquare:4>FN31
+<App_NetLogger_Preferred_Name:5>David
+<Operator:6>KD0MGE
+<QSL_Via:27>GIB-5 M V T N LoTW-QRZ-eQSL
+<Country:13>United States
+<Address:24>DAVE
+
+POUGHKEEPSIE, NY
+<App_NetLogger_Award_Status:5>MIL:A
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:4>ND8F
+<QSO_Date:8>20200804
+<Time_On:6>011936
+<App_NetLogger_ClubMemberId:3>774
+<Name:5>HOMER
+<Band:3>40m
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:5>Hiram
+<State:2>GA
+<Cnty:11>GA,PAULDING
+<DXCC:3>291
+<Gridsquare:4>EM73
+<App_NetLogger_Preferred_Name:5>Homer
+<Operator:6>KD0MGE
+<QSL_Via:17>GIB-5 M V T Y Q N
+<Country:13>United States
+<Address:44>HOMER
+92 Mitchell Way
+Hiram, GA 30141-3554
+<App_NetLogger_Award_Status:5>MIL:A
+<App_NetLogger_Net:17>OMISS 40m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>KG5PBJ
+<QSO_Date:8>20200804
+<Time_On:6>013401
+<App_NetLogger_ClubMemberId:5>12099
+<Comment:6>TOP OP
+<Name:5>KEITH
+<Band:3>40m
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:5>Walls
+<State:2>MS
+<Cnty:9>MS,DeSoto
+<DXCC:3>291
+<Gridsquare:4>EM44
+<App_NetLogger_Preferred_Name:6>Edward
+<Operator:6>KD0MGE
+<QSL_Via:33>M V T Good-on-QRZ---EQSLor-direct
+<Country:13>United States
+<Address:46>KEITH
+7487 Broken Hickory Dr
+Walls, MS 38680
+<App_NetLogger_Award_Status:5>MIL:N
+<App_NetLogger_Net:17>OMISS 40m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>KB0VHA
+<QSO_Date:8>20200810
+<Time_On:6>204653
+<App_NetLogger_ClubMemberId:5>11173
+<Name:5>KEVIN
+<Band:3>20m
+<RST_Sent:2>55
+<RST_Rcvd:2>55
+<Mode:3>SSB
+<Freq:6>14.290
+<QTH:9>ELIZABETH
+<State:2>CO
+<Cnty:9>CO,Elbert
+<DXCC:3>291
+<Gridsquare:4>DM79
+<App_NetLogger_Preferred_Name:5>Kevin
+<Operator:6>KD0MGE
+<QSL_Via:27>GIB-8 M T eQSL-LOTW-qrz.com
+<Country:13>United States
+<Address:46>KEVIN
+32101 Jenny Circle
+ELIZABETH, CO 80107
+<App_NetLogger_Award_Status:6>MIL:AF
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:4>W1IP
+<QSO_Date:8>20200829
+<Time_On:6>224716
+<Name:12>Paul J Lourd
+<Band:3>40m
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:6>WILTON
+<State:2>CT
+<Cnty:12>CT,Fairfield
+<DXCC:3>291
+<Gridsquare:6>FN31ge
+<App_NetLogger_Preferred_Name:4>Paul
+<Operator:6>KD0MGE
+<QSL_Via:25>LOTW BURO DIRECT Any way!
+<Country:13>United States
+<Address:49>Paul J Lourd
+173 OLD BOSTON RD
+WILTON, CT 06897
+<App_NetLogger_Net:12>NATA 40m Net
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>VA3YKT
+<QSO_Date:8>20200831
+<Time_On:6>002835
+<Name:11>John Gadoua
+<Band:3>40m
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:17>Newmarket Ontario
+<State:2>ON
+<Cnty:3>ON,
+<Gridsquare:6>FN04jm
+<App_NetLogger_Preferred_Name:4>John
+<Operator:6>KD0MGE
+<QSL_Via:8>QRZ LoTW
+<Country:6>Canada
+<Address:59>John Gadoua
+44 Belfry Drive
+Newmarket Ontario, ON L3Y 3G1
+<App_NetLogger_Net:12>NATA 40m Net
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>W5WJN
+<QSO_Date:8>20201006
+<Time_On:6>185412
+<App_NetLogger_ClubMemberId:4>4757
+<Name:4>BILL
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.290
+<QTH:14>DENHAM SPRINGS
+<State:2>LA
+<Cnty:13>LA,LIVINGSTON
+<DXCC:3>291
+<Gridsquare:4>EM40
+<App_NetLogger_Preferred_Name:7>William
+<Operator:6>KD0MGE
+<QSL_Via:39>GIB-13 T OMISS-3905-SKCC-Bureaus-or-Dir
+<Country:13>United States
+<Address:52>BILL
+12770 BUDDY ELLIS RD
+DENHAM SPRINGS, LA 70726
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:4>K4LO
+<QSO_Date:8>20201109
+<Time_On:6>193356
+<App_NetLogger_ClubMemberId:4>8416
+<Name:4>PHIL
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.290
+<QTH:4>PACE
+<State:2>FL
+<Cnty:13>FL,SANTA ROSA
+<DXCC:3>291
+<Gridsquare:4>EM60
+<Operator:6>KD0MGE
+<QSL_Via:9>GIB-1 M T
+<Country:13>United States
+<Address:43>PHIL
+4528 TAMARIND DR
+PACE, FL 32571-2850
+<App_NetLogger_Award_Status:5>MIL:N
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>KE8LCM
+<QSO_Date:8>20201109
+<Time_On:6>193440
+<App_NetLogger_ClubMemberId:5>12916
+<Name:5>ROGER
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.290
+<QTH:11>PARKERSBURG
+<State:2>WV
+<Cnty:7>WV,Wood
+<DXCC:3>291
+<Gridsquare:4>EM99
+<Operator:6>KD0MGE
+<QSL_Via:5>GIB-1
+<Country:13>United States
+<Address:50>ROGER
+109 RYANWOOD VILLAGE
+PARKERSBURG, WV 26101
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:3>W1G
+<QSO_Date:8>20201118
+<Time_On:6>200410
+<Comment:5>COMBO
+<Name:8>Bob Hess
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.283
+<QTH:11>East Berlin
+<State:2>PA
+<Cnty:8>PA,Adams
+<DXCC:3>291
+<Gridsquare:6>FM19lx
+<App_NetLogger_Preferred_Name:3>Bob
+<Operator:6>KD0MGE
+<Country:13>United States
+<Address:45>Bob Hess
+74 Curtis Dr
+East Berlin, PA 17316
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>N6ADO
+<QSO_Date:8>20210503
+<Time_On:6>185706
+<App_NetLogger_ClubMemberId:5>10379
+<Name:4>GARY
+<Band:3>20m
+<RST_Sent:2>44
+<RST_Rcvd:2>57
+<Mode:3>SSB
+<Freq:6>14.294
+<QTH:8>Coronado
+<State:2>CA
+<Cnty:12>CA,SAN DIEGO
+<DXCC:3>291
+<Gridsquare:4>DM12
+<Operator:6>KD0MGE
+<QSL_Via:23>GIB-1 T N QRZ-eQSL-LotW
+<Country:13>United States
+<Address:36>GARY
+420 3rd St
+Coronado, CA 92118
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>K1RLB
+<QSO_Date:8>20210503
+<Time_On:6>194852
+<App_NetLogger_ClubMemberId:5>11270
+<Name:4>RICH
+<Band:3>20m
+<RST_Sent:2>55
+<RST_Rcvd:2>57
+<Mode:3>SSB
+<Freq:6>14.294
+<QTH:6>Cotuit
+<State:2>MA
+<Cnty:13>MA,Barnstable
+<DXCC:3>291
+<Gridsquare:4>FN41
+<Operator:6>KD0MGE
+<QSL_Via:38>GIB-9 DIRECT--NO-SASE--LOTW--eQSL--QRZ
+<Country:13>United States
+<Address:41>RICH
+101 Eisenhower Dr
+Cotuit, MA 02635
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>K7ORL
+<QSO_Date:8>20220723
+<Time_On:6>183828
+<App_NetLogger_ClubMemberId:5>13038
+<Name:5>DANNY
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.290
+<QTH:6>CHENEY
+<State:2>WA
+<Cnty:10>WA,Spokane
+<DXCC:3>291
+<Gridsquare:4>DN17
+<App_NetLogger_Preferred_Name:5>Danny
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<QSL_Via:13>M QRZ-or-EQSL
+<Country:13>United States
+<Address:37>DANNY
+7423 DANA ST
+CHENEY, WA 99004
+<App_NetLogger_Award_Status:5>MIL:N
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>NY4NC
+<QSO_Date:8>20220723
+<Time_On:6>183945
+<App_NetLogger_ClubMemberId:5>12937
+<Comment:7>R DE/50
+<Name:7>STEPHEN
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.290
+<QTH:11>Wake Forest
+<State:2>NC
+<Cnty:7>NC,WAKE
+<DXCC:3>291
+<Gridsquare:4>FM05
+<App_NetLogger_Preferred_Name:7>Stephen
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<QSL_Via:23>M QRZ--LotW--eQSL--SASE
+<Country:13>United States
+<Address:48>STEPHEN
+803 Tacy Pl
+Wake Forest, NC 27587-2859
+<App_NetLogger_Award_Status:5>MIL:A
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>WB1CMG
+<QSO_Date:8>20220723
+<Time_On:6>184412
+<App_NetLogger_ClubMemberId:4>1034
+<Name:5>DAVID
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.290
+<QTH:11>MONT VERNON
+<State:2>NH
+<Cnty:15>NH,HILLSBOROUGH
+<DXCC:3>291
+<Gridsquare:4>FN42
+<App_NetLogger_Preferred_Name:5>David
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<QSL_Via:22>GIB-6 N EQSL-QRZ--LotW
+<Country:13>United States
+<Address:60>DAVID
+19 HARWOOD RD RR 1 SIGNAL HILL
+MONT VERNON, NH 03057
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>K3ABN
+<QSO_Date:8>20220725
+<Time_On:6>183620
+<App_NetLogger_ClubMemberId:5>13270
+<Comment:4>FREE
+<Name:4>HANK
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.287
+<QTH:9>Dahlonega
+<State:2>GA
+<Cnty:10>GA,LUMPKIN
+<DXCC:3>291
+<Gridsquare:4>EM74
+<App_NetLogger_Conf_Sent:1>E
+<Operator:6>KD0MGE
+<QSL_Via:25>GIB-2 M T QRZ-LoTW-Direct
+<Country:13>United States
+<Address:37>HANK
+63 Boyd Rd
+Dahlonega, GA 30533
+<App_NetLogger_Award_Status:11>MIL:A,MIL:M
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>W4JRV
+<QSO_Date:8>20220725
+<Time_On:6>183903
+<App_NetLogger_ClubMemberId:4>5756
+<Name:4>JEFF
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.287
+<QTH:8>Beaufort
+<State:2>SC
+<Cnty:11>SC,BEAUFORT
+<DXCC:3>291
+<Gridsquare:4>EM92
+<Operator:6>KD0MGE
+<QSL_Via:41>GIB-1 M P T Q N QRZ-Direct-(No-SASE-Need)
+<Country:13>United States
+<Address:43>JEFF
+4362 Pinewood Cir
+Beaufort, SC 29906
+<App_NetLogger_Award_Status:12>MIL:M,FR:POL
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>K7ORL
+<QSO_Date:8>20220725
+<Time_On:6>190646
+<App_NetLogger_ClubMemberId:5>13038
+<Name:5>DANNY
+<Band:3>20m
+<RST_Sent:2>59
+<RST_Rcvd:2>59
+<Mode:3>SSB
+<Freq:6>14.287
+<QTH:6>CHENEY
+<State:2>WA
+<Cnty:10>WA,Spokane
+<DXCC:3>291
+<Gridsquare:4>DN17
+<Operator:6>KD0MGE
+<QSL_Via:13>M QRZ-or-EQSL
+<Country:13>United States
+<Address:37>DANNY
+7423 DANA ST
+CHENEY, WA 99004
+<App_NetLogger_Award_Status:5>MIL:N
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>K7AAO
+<QSO_Date:8>20220725
+<Time_On:6>192204
+<App_NetLogger_ClubMemberId:4>9180
+<Name:3>KEN
+<Band:3>20m
+<RST_Sent:2>59
+<RST_Rcvd:2>59
+<Mode:3>SSB
+<Freq:6>14.287
+<QTH:5>SANDY
+<State:2>UT
+<Cnty:12>UT,SALT LAKE
+<DXCC:3>291
+<Gridsquare:4>DN40
+<Operator:6>KD0MGE
+<Country:13>United States
+<Address:41>KEN
+9490 SOUTH 300 EAST
+SANDY, UT 84070
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:4>WY6T
+<QSO_Date:8>20220725
+<Time_On:6>194103
+<App_NetLogger_ClubMemberId:4>8988
+<Name:3>DON
+<Band:3>20m
+<RST_Sent:2>55
+<RST_Rcvd:2>59
+<Mode:3>SSB
+<Freq:6>14.287
+<QTH:9>Tehachapi
+<State:2>CA
+<Cnty:7>CA,KERN
+<DXCC:3>291
+<Gridsquare:4>DM05
+<Operator:6>KD0MGE
+<QSL_Via:23>V Q N eQSL(AG)-LOTW-QRZ
+<Country:13>United States
+<Address:62>DON
+25970 Jacaranda Dr. PO BOX 1347
+Tehachapi, CA 93581-1347
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>KD8NKY
+<QSO_Date:8>20220725
+<Time_On:6>232606
+<Name:7>Randall
+<Band:3>40m
+<RST_Sent:2>55
+<RST_Rcvd:2>55
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:10>Grove City
+<State:2>OH
+<Cnty:11>OH,Franklin
+<DXCC:3>291
+<Gridsquare:6>EM89ku
+<App_NetLogger_Preferred_Name:7>Randall
+<Operator:6>KD0MGE
+<QSL_Via:14>LOTW or Direct
+<Country:13>United States
+<Address:45>Randall
+3791 Casa Blvd
+Grove City, OH 43123
+<App_NetLogger_Net:12>NATA 40m Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>WR8WM
+<QSO_Date:8>20220725
+<Time_On:6>233652
+<Comment:13>NATA Chaplain
+<Name:17>Robert W Moody Sr
+<Band:3>40m
+<RST_Sent:2>55
+<RST_Rcvd:2>59
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:8>FAIRBURY
+<State:2>NE
+<Cnty:12>NE,Jefferson
+<DXCC:3>291
+<Gridsquare:6>EN10jd
+<App_NetLogger_Preferred_Name:6>Robert
+<Operator:6>KD0MGE
+<QSL_Via:18>QRZ com or direct.
+<Country:13>United States
+<Address:53>Robert W Moody Sr
+818 4TH STREET
+FAIRBURY, NE 68352
+<App_NetLogger_Net:12>NATA 40m Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>KD2DMR
+<QSO_Date:8>20220727
+<Time_On:6>235244
+<Comment:26>Certified NCS, NCS Trainer
+<Name:16>Jeremy T Vickerd
+<Band:3>40m
+<RST_Sent:2>33
+<RST_Rcvd:2>59
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:6>Fulton
+<State:2>IL
+<Cnty:12>IL,Whiteside
+<DXCC:3>291
+<Gridsquare:6>EN41wu
+<App_NetLogger_Preferred_Name:6>Jeremy
+<Operator:6>KD0MGE
+<QSL_Via:4>SASE
+<Country:13>United States
+<Address:52>Jeremy T Vickerd
+518 24th Ave #54
+Fulton, IL 61252
+<App_NetLogger_Net:12>NATA 40m Net
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>VE3KUZ
+<QSO_Date:8>20220727
+<Time_On:6>235336
+<Comment:14>(no club info)
+<Name:15>Robert Mckinley
+<Band:3>40m
+<RST_Sent:2>55
+<RST_Rcvd:2>55
+<Mode:3>SSB
+<Freq:5>7.185
+<QTH:7>Windsor
+<State:2>ON
+<Cnty:3>ON,
+<DXCC:1>1
+<Gridsquare:6>EN82lg
+<Operator:6>KD0MGE
+<QSL_Via:7>QRZ.com
+<Country:6>Canada
+<Address:55>Robert Mckinley
+2903 Randolph Ave.
+Windsor, ON N9E3E3
+<App_NetLogger_Net:12>NATA 40m Net
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>N6ADO
+<QSO_Date:8>20220729
+<Time_On:6>184339
+<App_NetLogger_ClubMemberId:5>10379
+<Name:4>GARY
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.289
+<QTH:8>Coronado
+<State:2>CA
+<Cnty:12>CA,SAN DIEGO
+<DXCC:3>291
+<Gridsquare:4>DM12
+<App_NetLogger_Preferred_Name:4>Gary
+<Operator:6>KD0MGE
+<QSL_Via:23>GIB-5 T N QRZ-eQSL-LotW
+<Country:13>United States
+<Address:20>GARY
+
+Coronado, CA
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:4>NK4T
+<QSO_Date:8>20220729
+<Time_On:6>184814
+<App_NetLogger_ClubMemberId:4>1581
+<Name:5>WAYNE
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.289
+<QTH:6>Semmes
+<State:2>AL
+<Cnty:9>AL,MOBILE
+<DXCC:3>291
+<Gridsquare:4>EM50
+<App_NetLogger_Preferred_Name:5>Wayne
+<Operator:6>KD0MGE
+<QSL_Via:33>GIB-6 M T eQSL-LOTW-OR-PO-BOX-932
+<Country:13>United States
+<Address:19>WAYNE
+
+Semmes, AL
+<App_NetLogger_Award_Status:6>MIL:AF
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>K4HHA
+<QSO_Date:8>20220801
+<Time_On:6>184809
+<App_NetLogger_ClubMemberId:5>13175
+<Name:6>MICKEY
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.290
+<QTH:9>Knoxville
+<State:2>TN
+<Cnty:7>TN,Knox
+<DXCC:3>291
+<Gridsquare:4>EM86
+<Operator:6>KD0MGE
+<QSL_Via:26>GIB-1 LOTW-eQSL-QRZ-Direct
+<Country:13>United States
+<Address:46>MICKEY
+2719 Brookwood Rd
+Knoxville, TN 37917
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:4>WE6M
+<QSO_Date:8>20220801
+<Time_On:6>184940
+<Comment:3>FAM
+<Name:19>Robert J Kazmierski
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.290
+<QTH:9>SAN MATEO
+<State:2>CA
+<Cnty:12>CA,San Mateo
+<DXCC:3>291
+<Gridsquare:6>CM87un
+<Operator:6>KD0MGE
+<Country:13>United States
+<Address:57>Robert J Kazmierski
+1409 DAKOTA AVE
+SAN MATEO, CA 94401
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:4>W7TG
+<QSO_Date:8>20220801
+<Time_On:6>190232
+<App_NetLogger_ClubMemberId:5>13881
+<Name:3>TOM
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.290
+<QTH:8>Concrete
+<State:2>WA
+<Cnty:9>WA,SKAGIT
+<DXCC:3>291
+<Gridsquare:4>CN98
+<Operator:6>KD0MGE
+<QSL_Via:35>GIB-5 LOTW-BURO-OQRS---NO-QRZ-E-QSL
+<Country:13>United States
+<Address:42>TOM
+49176 Sauk Valley
+Concrete, WA 98237
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>W7XTZ
+<QSO_Date:8>20220801
+<Time_On:6>190259
+<App_NetLogger_ClubMemberId:4>7112
+<Name:4>MIKE
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.290
+<QTH:10>Lake Tapps
+<State:2>WA
+<Cnty:9>WA,PIERCE
+<DXCC:3>291
+<Gridsquare:4>CN87
+<Operator:6>KD0MGE
+<QSL_Via:18>V T N No-Cards-PSE
+<Country:13>United States
+<Address:46>MIKE
+1803 186th Ave. E.
+Lake Tapps, WA 98391
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>KN4HND
+<QSO_Date:8>20220801
+<Time_On:6>190547
+<App_NetLogger_ClubMemberId:5>13516
+<Name:5>SCOTT
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.290
+<QTH:10>WILKESBORO
+<State:2>NC
+<Cnty:9>NC,WILKES
+<DXCC:3>291
+<Gridsquare:4>EM96
+<Operator:6>KD0MGE
+<QSL_Via:13>QRZ-eQSL-LoTW
+<Country:13>United States
+<Address:44>SCOTT
+179 PONDVIEW DR
+WILKESBORO, NC 28697
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>W4DWS
+<QSO_Date:8>20220804
+<Time_On:6>191907
+<App_NetLogger_ClubMemberId:5>12885
+<Comment:1>R
+<Name:5>MAYOR
+<Band:3>20m
+<RST_Sent:2>59
+<RST_Rcvd:2>59
+<Mode:3>SSB
+<Freq:6>14.290
+<QTH:11>Cave Spring
+<State:2>GA
+<Cnty:8>GA,FLOYD
+<DXCC:3>291
+<Gridsquare:4>EM74
+<App_NetLogger_Preferred_Name:6>Dennis
+<Operator:6>KD0MGE
+<QSL_Via:28>GIB-1 M V T Q N GIB-and-LoTW
+<Country:13>United States
+<Address:47>MAYOR
+35 Heather Circle
+Cave Spring, GA 30124
+<App_NetLogger_Award_Status:3>MIL
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>W7PEZ
+<QSO_Date:8>20220804
+<Time_On:6>193640
+<App_NetLogger_ClubMemberId:5>13778
+<Name:4>PAUL
+<Band:3>20m
+<RST_Sent:2>55
+<RST_Rcvd:2>54
+<Mode:3>SSB
+<Freq:6>14.290
+<QTH:11>Woodinville
+<State:2>WA
+<Cnty:7>WA,King
+<DXCC:3>291
+<Gridsquare:4>CN87
+<App_NetLogger_Preferred_Name:4>Paul
+<Operator:6>KD0MGE
+<QSL_Via:8>LOTW-QRZ
+<Country:13>United States
+<Address:46>PAUL
+22209 NE 156th Pl
+Woodinville, WA 98077
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>W1SWL
+<QSO_Date:8>20220804
+<Time_On:6>193652
+<App_NetLogger_ClubMemberId:5>13872
+<Name:3>ART
+<Band:3>20m
+<RST_Sent:2>59
+<RST_Rcvd:2>58
+<Mode:3>SSB
+<Freq:6>14.290
+<QTH:9>STRATFORD
+<State:2>CT
+<Cnty:12>CT,Fairfield
+<DXCC:3>291
+<Gridsquare:4>FN31
+<App_NetLogger_Preferred_Name:6>Arthur
+<Operator:6>KD0MGE
+<QSL_Via:33>GIB-5 GIB-LOTW-eQSL-QRZ-and-MAIL-
+<Country:13>United States
+<Address:42>ART
+5629 MAIN STREET
+STRATFORD, CT 06614
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>K7KKR
+<QSO_Date:8>20220804
+<Time_On:6>194344
+<App_NetLogger_ClubMemberId:5>12011
+<Name:9>ROB-VEGAS
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.290
+<QTH:9>Las Vegas
+<State:2>UT
+<Cnty:8>UT,CLARK
+<DXCC:3>291
+<Gridsquare:4>DM26
+<App_NetLogger_Preferred_Name:3>Rob
+<Operator:6>KD0MGE
+<QSL_Via:37>GIB-11 P V Q N QRZ-LotW-Bureau-Direct
+<Country:13>United States
+<Address:58>ROB-VEGAS
+8052 Edward Baher Ave
+Las Vegas, UT 89149-4910
+<App_NetLogger_MP_Status:1>M
+<App_NetLogger_Award_Status:6>FR:POL
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>KA3TCB
+<QSO_Date:8>20220805
+<Time_On:6>194526
+<App_NetLogger_ClubMemberId:4>7483
+<Name:6>DONALD
+<Band:3>20m
+<RST_Sent:2>21
+<RST_Rcvd:2>21
+<Mode:3>SSB
+<Freq:6>14.293
+<QTH:10>Tabor City
+<State:2>NC
+<Cnty:11>NC,COLUMBUS
+<DXCC:3>291
+<Gridsquare:4>FM04
+<Operator:6>KD0MGE
+<QSL_Via:18>GIB-5 D P GIB-eQSL
+<Country:13>United States
+<Address:45>DONALD
+101 Pine Street
+Tabor City, NC 28463
+<App_NetLogger_Award_Status:13>FR:DIS,FR:POL
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>N2QIL
+<QSO_Date:8>20220805
+<Time_On:6>195812
+<App_NetLogger_ClubMemberId:5>13391
+<Name:14>KILLOWATTKENNY
+<Band:3>20m
+<RST_Sent:2>44
+<RST_Rcvd:2>55
+<Mode:3>SSB
+<Freq:6>14.293
+<QTH:10>Northville
+<State:2>NY
+<Cnty:11>NY,saratoga
+<DXCC:3>291
+<Gridsquare:4>FN23
+<Operator:6>KD0MGE
+<QSL_Via:8>QRZ-LOTW
+<Country:13>United States
+<Address:53>KILLOWATTKENNY
+23 Sand Lake Rd
+Northville, NY 12134
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>WB4HZA
+<QSO_Date:8>20220805
+<Time_On:6>202030
+<App_NetLogger_ClubMemberId:5>14210
+<Name:4>JOHN
+<Band:3>20m
+<RST_Sent:2>55
+<RST_Rcvd:2>57
+<Mode:3>SSB
+<Freq:6>14.293
+<QTH:8>Lakewood
+<State:2>CO
+<Cnty:12>CO,Jefferson
+<DXCC:3>291
+<Gridsquare:4>DM79
+<Operator:6>KD0MGE
+<Country:13>United States
+<Address:43>JOHN
+2615 S Ammons Way
+Lakewood, CO 80227
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:4>N8XX
+<QSO_Date:8>20220805
+<Time_On:6>202119
+<App_NetLogger_ClubMemberId:5>14232
+<Name:4>BILL
+<Band:3>20m
+<RST_Sent:2>59
+<RST_Rcvd:2>55
+<Mode:3>SSB
+<Freq:6>14.293
+<QTH:10>Bedminster
+<State:2>NJ
+<Cnty:11>NJ,Somerset
+<DXCC:3>291
+<Gridsquare:4>FN20
+<Operator:6>KD0MGE
+<Country:13>United States
+<Address:43>BILL
+230 OLD FARM RD
+Bedminster, NJ 07921
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>KL7WG
+<QSO_Date:8>20220806
+<Time_On:6>185655
+<App_NetLogger_ClubMemberId:5>11287
+<Name:4>BILL
+<Band:3>20m
+<RST_Sent:2>44
+<RST_Rcvd:2>44
+<Mode:3>SSB
+<Freq:6>14.288
+<QTH:8>Big Lake
+<State:2>AK
+<Cnty:20>AK,MATANUSKA SUSITNA
+<DXCC:1>6
+<Gridsquare:4>DM33
+<App_NetLogger_Preferred_Name:7>William
+<Operator:6>KD0MGE
+<Country:13>United States
+<Address:38>BILL
+P.O. Box 386
+Big Lake, AK 99652
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>KE4HIE
+<QSO_Date:8>20220809
+<Time_On:6>184541
+<App_NetLogger_ClubMemberId:5>13390
+<Name:4>JOHN
+<Band:3>20m
+<RST_Sent:2>57
+<RST_Rcvd:2>57
+<Mode:3>SSB
+<Freq:6>14.290
+<QTH:9>Andalusia
+<State:2>AL
+<Cnty:12>AL,Covington
+<DXCC:3>291
+<Gridsquare:4>EM61
+<Operator:6>KD0MGE
+<QSL_Via:34>GIB-12 F T QRZ--LOTW--GIB--or-MAIL
+<Country:13>United States
+<Address:59>JOHN
+16405 Woodland Estates Road
+Andalusia, AL 36421-8209
+<App_NetLogger_Award_Status:5>FR:FF
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>N1PGF
+<QSO_Date:8>20220809
+<Time_On:6>184544
+<App_NetLogger_ClubMemberId:5>14188
+<Name:6>ARCHIE
+<Band:3>20m
+<RST_Sent:2>57
+<RST_Rcvd:2>57
+<Mode:3>SSB
+<Freq:6>14.290
+<QTH:10>Chichester
+<State:2>NH
+<Cnty:12>NH,Merrimack
+<DXCC:3>291
+<Gridsquare:4>FN43
+<Operator:6>KD0MGE
+<QSL_Via:64>Archie Young 117 pleasant st Chichester NH 03258/Please use QRZ.
+<Country:13>United States
+<Address:47>ARCHIE
+117 Plesant St #9
+Chichester, NH 03258
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:4>WF9F
+<QSO_Date:8>20220809
+<Time_On:6>184547
+<App_NetLogger_ClubMemberId:5>12792
+<Name:4>MATT
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.290
+<QTH:8>THORNTON
+<State:2>CO
+<Cnty:8>CO,ADAMS
+<DXCC:3>291
+<Gridsquare:4>DM79
+<Operator:6>KD0MGE
+<QSL_Via:41>GIB-4 M V T N LoTW-QRZ-eQSL--cards-on-req
+<Country:13>United States
+<Address:44>MATT
+3063 E 137TH PLACE
+THORNTON, CO 80602
+<App_NetLogger_Award_Status:5>MIL:N
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>WE2FAT
+<QSO_Date:8>20220810
+<Time_On:6>191522
+<App_NetLogger_ClubMemberId:5>12747
+<Name:7>BIG JIM
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.297
+<QTH:9>Hyde Park
+<State:2>NY
+<Cnty:11>NY,DUTCHESS
+<DXCC:3>291
+<Gridsquare:4>FN31
+<App_NetLogger_Preferred_Name:5>James
+<Operator:6>KD0MGE
+<QSL_Via:13>qrz-qsl-cards
+<Country:13>United States
+<Address:48>BIG JIM
+116 Honeywell Lane
+Hyde Park, NY 12538
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>KA4CZL
+<QSO_Date:8>20220810
+<Time_On:6>194205
+<App_NetLogger_ClubMemberId:4>9906
+<Name:5>STEVE
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.297
+<QTH:6>FALCON
+<State:2>NC
+<Cnty:13>NC,Cumberland
+<DXCC:3>291
+<Gridsquare:4>FM05
+<App_NetLogger_Preferred_Name:6>Steven
+<Operator:6>KD0MGE
+<QSL_Via:15>QSL DIRECT ONLY
+<Country:13>United States
+<Address:35>STEVE
+PO BOX 197
+FALCON, NC 28342
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>VE2ZYD
+<QSO_Date:8>20220810
+<Time_On:6>194639
+<App_NetLogger_ClubMemberId:5>14298
+<Name:4>MIKE
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.297
+<QTH:7>Prevost
+<State:2>QC
+<Cnty:14>QC,Laurentides
+<DXCC:1>1
+<Gridsquare:4>FN25
+<App_NetLogger_Preferred_Name:6>Michel
+<Operator:6>KD0MGE
+<QSL_Via:8>QRZ-LOTW
+<Country:6>Canada
+<Address:47>MIKE
+1303 rue Louis Morin
+Prevost, QC J0R 1T0
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>KB1OTB
+<QSO_Date:8>20220810
+<Time_On:6>194708
+<App_NetLogger_ClubMemberId:5>13863
+<Name:7>DAHNESH
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.297
+<QTH:11>Mont Vernon
+<State:2>NH
+<Cnty:15>NH,Hillsborough
+<DXCC:3>291
+<Gridsquare:4>FN42
+<App_NetLogger_Preferred_Name:7>Dahnesh
+<Operator:6>KD0MGE
+<Country:13>United States
+<Address:45>DAHNESH
+19 Harwood Rd
+Mont Vernon, NH 03057
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>KE4HIE
+<QSO_Date:8>20220810
+<Time_On:6>201123
+<App_NetLogger_ClubMemberId:5>13390
+<Name:4>JOHN
+<Band:3>20m
+<RST_Sent:2>59
+<RST_Rcvd:2>59
+<Mode:3>SSB
+<Freq:6>14.297
+<QTH:9>Andalusia
+<State:2>AL
+<Cnty:12>AL,Covington
+<DXCC:3>291
+<Gridsquare:4>EM61
+<App_NetLogger_Preferred_Name:4>John
+<Operator:6>KD0MGE
+<QSL_Via:34>GIB-12 F T QRZ--LOTW--GIB--or-MAIL
+<Country:13>United States
+<Address:59>JOHN
+16405 Woodland Estates Road
+Andalusia, AL 36421-8209
+<App_NetLogger_Award_Status:5>FR:FF
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>W1USB
+<QSO_Date:8>20220811
+<Time_On:6>193636
+<App_NetLogger_ClubMemberId:5>13743
+<Name:4>JOHN
+<Band:3>20m
+<RST_Sent:2>57
+<RST_Rcvd:2>22
+<Mode:3>SSB
+<Freq:6>14.296
+<QTH:9>WARDSBORO
+<State:2>VT
+<Cnty:10>VT,Windham
+<DXCC:3>291
+<Gridsquare:4>FN32
+<App_NetLogger_Preferred_Name:4>John
+<Operator:6>KD0MGE
+<Country:13>United States
+<Address:59>JOHN
+1329 Newfane rd po box 194 PO BO
+WARDSBORO, VT 05355
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>W0ANV
+<QSO_Date:8>20220811
+<Time_On:6>193810
+<App_NetLogger_ClubMemberId:5>13980
+<Comment:1>R
+<Name:2>CJ
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.296
+<QTH:14>Cheyenne Wells
+<State:2>CO
+<Cnty:11>CO,Cheyenne
+<DXCC:3>291
+<Gridsquare:4>DM88
+<App_NetLogger_Preferred_Name:6>Curtis
+<Operator:6>KD0MGE
+<QSL_Via:10>T QRZ-Lotw
+<Country:13>United States
+<Address:46>CJ
+16000 Us Hwy 385
+Cheyenne Wells, CO 80810
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:4>W6PS
+<QSO_Date:8>20220815
+<Time_On:6>190546
+<App_NetLogger_ClubMemberId:5>13702
+<Name:6>PHILIP
+<Band:3>20m
+<RST_Sent:2>55
+<RST_Rcvd:2>21
+<Mode:3>SSB
+<Freq:6>14.290
+<QTH:10>GLEN ELLEN
+<State:2>NY
+<Cnty:10>NY,Suffolk
+<Gridsquare:4>CM88
+<Operator:6>KD0MGE
+<QSL_Via:20>Direct-eQSL-QRZ-LoTW
+<Country:13>United States
+<Address:49>PHILIP
+15479 MARTY DR
+GLEN ELLEN, NY 95442-9662
+<App_NetLogger_MP_Status:1>P
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>KC1ILH
+<QSO_Date:8>20220815
+<Time_On:6>190552
+<App_NetLogger_ClubMemberId:5>12254
+<Name:6>DANIEL
+<Band:3>20m
+<RST_Sent:2>59
+<RST_Rcvd:2>59
+<Mode:3>SSB
+<Freq:6>14.290
+<QTH:10>Manchester
+<State:2>NH
+<Cnty:15>NH,HILLSBOROUGH
+<DXCC:3>291
+<Gridsquare:4>FN43
+<Operator:6>KD0MGE
+<QSL_Via:30>GIB-9 M N eQSL-LoTW-QRZ-Direct
+<Country:13>United States
+<Address:42>DANIEL
+26 Acorn Cir
+Manchester, NH 03102
+<App_NetLogger_Award_Status:5>MIL:N
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:6>KN4PHS
+<QSO_Date:8>20220825
+<Time_On:6>190238
+<App_NetLogger_ClubMemberId:5>12271
+<Name:5>BYRON
+<Band:3>20m
+<Mode:3>SSB
+<Freq:6>14.288
+<QTH:7>Decatur
+<State:2>AL
+<Cnty:9>AL,Morgan
+<DXCC:3>291
+<Gridsquare:4>EM64
+<App_NetLogger_Preferred_Name:5>Byron
+<Operator:6>KD0MGE
+<QSL_Via:27>GIB-4 T N LoTW-QRZ-NO-PAPER
+<Country:13>United States
+<Address:20>BYRON
+
+Decatur, AL
+<App_NetLogger_Net:17>OMISS 20m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+
+<Call:5>K7ORL
+<QSO_Date:8>20230422
+<Time_On:6>165958
+<App_NetLogger_ClubMemberId:5>13038
+<Comment:1>8
+<Name:5>DANNY
+<Band:3>15m
+<Mode:3>SSB
+<Freq:6>21.395
+<QTH:6>CHENEY
+<State:2>WA
+<Cnty:10>WA,Spokane
+<DXCC:3>291
+<Gridsquare:4>DN17
+<App_NetLogger_Preferred_Name:5>Danny
+<Operator:6>KD0MGE
+<QSL_Via:13>M QRZ-or-EQSL
+<Country:13>United States
+<Address:37>DANNY
+7423 DANA ST
+CHENEY, WA 99004
+<App_NetLogger_Net:17>OMISS 15m SSB Net
+<App_NetLogger_Club:5>OMISS
+<Station_Callsign:6>KD0MGE
+<eor>
+

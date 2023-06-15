@@ -1,0 +1,290 @@
+Generated on 2023-05-07T14:14:03.215Z 
+<adif_ver:5>3.0.5
+<programid:5>HAMRS
+<programversion:5>1.0.6
+<EOH>
+
+<band:3>20m
+<call:4>W7EY
+<cont:2>NA
+<country:24>United States of America
+<freq:6>14.309
+<gridsquare:6>DN78wo
+<mode:3>SSB
+<my_sig:4>POTA
+<name:14>JAMES ERICKSON
+<operator:6>KD0MGE
+<qso_date:8>20230506
+<qso_date_off:8>20230506
+<rst_rcvd:2>59
+<rst_sent:2>59
+<sig_info:6>K-2563
+<state:2>MT
+<time_on:6>182222
+<eor>
+
+<band:3>20m
+<call:5>K7RCR
+<cont:2>NA
+<country:24>United States of America
+<freq:6>14.305
+<gridsquare:6>EM06kq
+<mode:3>SSB
+<my_sig:4>POTA
+<name:16>RICHARD C ROGERS
+<operator:6>KD0MGE
+<qso_date:8>20230506
+<qso_date_off:8>20230506
+<rst_rcvd:2>59
+<rst_sent:2>59
+<sig_info:6>K-2769
+<state:2>OK
+<time_on:6>182519
+<eor>
+
+<band:3>20m
+<call:5>KD3TB
+<cnty:5>Bucks
+<comment:23> Delaware qso party SDE
+<country:13>United States
+<freq:6>14.305
+<gridsquare:6>FN20kh
+<mode:3>SSB
+<my_sig:4>POTA
+<name:14>IRWIN C DARACK
+<operator:6>KD0MGE
+<qso_date:8>20230506
+<qso_date_off:8>20230506
+<qth:10>DOYLESTOWN
+<rst_rcvd:2>59
+<rst_sent:2>59
+<state:2>PA
+<time_on:6>183107
+<eor>
+
+<band:3>20m
+<call:5>K4OTX
+<cnty:8>Cherokee
+<country:13>United States
+<freq:9>14.305213
+<gridsquare:6>EM74qc
+<mode:3>SSB
+<my_gridsquare:6>EN36tp
+<my_sig:4>POTA
+<my_sig_info:6>K-2495
+<my_state:2>MN
+<name:13>BRUCE BARKLEY
+<operator:6>KD0MGE
+<qso_date:8>20230506
+<qso_date_off:8>20230506
+<qth:7>ACWORTH
+<rst_rcvd:2>59
+<rst_sent:2>59
+<state:2>GA
+<time_on:6>183457
+<tx_pwr:3>100
+<eor>
+
+<band:3>20m
+<call:5>KX5JT
+<cnty:9>Vermilion
+<country:13>United States
+<freq:9>14.305213
+<gridsquare:6>FN33mb
+<mode:3>SSB
+<my_gridsquare:6>EN36tp
+<my_sig:4>POTA
+<my_sig_info:6>K-2495
+<my_state:2>MN
+<name:11>John D Tate
+<operator:6>KD0MGE
+<qso_date:8>20230506
+<qso_date_off:8>20230506
+<rst_rcvd:2>59
+<rst_sent:2>59
+<sig_info:6>K-4527
+<state:2>VT
+<time_on:6>183550
+<tx_pwr:3>100
+<eor>
+
+<band:3>20m
+<call:6>VA3KOF
+<country:6>Canada
+<freq:9>14.305213
+<gridsquare:6>FN04go
+<mode:3>SSB
+<my_gridsquare:6>EN36tp
+<my_sig:4>POTA
+<my_sig_info:6>K-2495
+<my_state:2>MN
+<name:12>Rick Markoff
+<operator:6>KD0MGE
+<qso_date:8>20230506
+<qso_date_off:8>20230506
+<qth:15>Orillia Ontario
+<rst_rcvd:2>59
+<rst_sent:2>59
+<time_on:6>183621
+<tx_pwr:3>100
+<eor>
+
+<band:3>20m
+<call:4>N4DH
+<cnty:8>Guilford
+<country:13>United States
+<freq:9>14.305213
+<gridsquare:6>FM06ce
+<mode:3>SSB
+<my_gridsquare:6>EN36tp
+<my_sig:4>POTA
+<my_sig_info:6>K-2495
+<my_state:2>MN
+<name:13>DEAN C WILSON
+<operator:6>KD0MGE
+<qso_date:8>20230506
+<qso_date_off:8>20230506
+<qth:10>GREENSBORO
+<rst_rcvd:2>59
+<rst_sent:2>59
+<state:2>NC
+<time_on:6>183711
+<tx_pwr:3>100
+<eor>
+
+<band:3>20m
+<call:5>N4CWB
+<cnty:8>Anderson
+<country:13>United States
+<freq:9>14.305213
+<gridsquare:6>EM84th
+<mode:3>SSB
+<my_gridsquare:6>EN36tp
+<my_sig:4>POTA
+<my_sig_info:6>K-2495
+<my_state:2>MN
+<name:14>Craig W Bryant
+<operator:6>KD0MGE
+<qso_date:8>20230506
+<qso_date_off:8>20230506
+<qth:8>Due West
+<rst_rcvd:2>59
+<rst_sent:2>59
+<state:2>SC
+<time_on:6>183831
+<tx_pwr:3>100
+<eor>
+
+<band:3>20m
+<call:5>K9ICP
+<cnty:7>Johnson
+<country:13>United States
+<freq:9>14.305213
+<gridsquare:6>EM69wo
+<mode:3>SSB
+<my_gridsquare:6>EN36tp
+<my_sig:4>POTA
+<my_sig_info:6>K-2495
+<my_state:2>MN
+<name:15>Bruce J Tisdale
+<operator:6>KD0MGE
+<qso_date:8>20230506
+<qso_date_off:8>20230506
+<qth:9>Greenwood
+<rst_rcvd:2>59
+<rst_sent:2>59
+<state:2>IN
+<time_on:6>183947
+<tx_pwr:3>100
+<eor>
+
+<band:3>20m
+<call:6>KF0JCP
+<cnty:7>Audrain
+<country:13>United States
+<freq:6>14.213
+<gridsquare:6>EM49cl
+<mode:3>SSB
+<my_gridsquare:6>EN36tp
+<my_sig:4>POTA
+<my_sig_info:6>K-2495
+<my_state:2>MN
+<name:15>Richard E Smith
+<operator:6>KD0MGE
+<qso_date:8>20230506
+<qso_date_off:8>20230506
+<rst_rcvd:2>59
+<rst_sent:2>59
+<sig_info:6>K-1772
+<state:2>MO
+<time_on:6>184403
+<tx_pwr:3>100
+<eor>
+
+<band:3>20m
+<call:3>W7F
+<cnty:9>Snohomish
+<country:13>United States
+<freq:6>14.213
+<gridsquare:6>DM33up
+<mode:3>SSB
+<my_gridsquare:6>EN36tp
+<my_sig:4>POTA
+<my_sig_info:6>K-2495
+<my_state:2>MN
+<name:49>7th Call Area QSO Party - May 1-2, 2021 undefined
+<operator:6>KD0MGE
+<qso_date:8>20230506
+<qso_date_off:8>20230506
+<qth:7>Edmonds
+<rst_rcvd:2>59
+<rst_sent:2>59
+<state:2>WA
+<time_on:6>185132
+<tx_pwr:3>100
+<eor>
+
+<band:3>20m
+<call:4>W4KW
+<cnty:9>Robertson
+<comment:3>7QP
+<country:13>United States
+<freq:6>14.235
+<gridsquare:6>EM66ok
+<mode:3>SSB
+<my_gridsquare:6>EN36tp
+<my_sig:4>POTA
+<my_sig_info:6>K-2495
+<my_state:2>MN
+<name:14>Bertram B Noll
+<operator:6>KD0MGE
+<qso_date:8>20230506
+<qso_date_off:8>20230506
+<qth:10>Greenbrier
+<rst_rcvd:2>59
+<rst_sent:2>59
+<state:2>TN
+<time_on:6>190232
+<tx_pwr:3>100
+<eor>
+
+<band:3>20m
+<call:5>S52WW
+<country:8>Slovenia
+<freq:6>14.235
+<mode:3>SSB
+<my_gridsquare:6>EN36tp
+<my_sig:4>POTA
+<my_sig_info:6>K-2495
+<my_state:2>MN
+<name:11>Damjan Kenk
+<operator:6>KD0MGE
+<qso_date:8>20230506
+<qso_date_off:8>20230506
+<qth:5>Rovte
+<rst_rcvd:2>59
+<rst_sent:2>59
+<time_on:6>190659
+<tx_pwr:3>100
+<eor>
+
