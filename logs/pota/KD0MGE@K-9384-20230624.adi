@@ -1,0 +1,253 @@
+Generated on 2023-06-24T23:33:10.210Z 
+<adif_ver:5>3.0.5
+<programid:5>HAMRS
+<programversion:5>1.0.6
+<EOH>
+
+<band:3>20m
+<call:5>W0ZRT
+<cnty:8>Burleigh
+<comment:5>1a nd
+<country:13>United States
+<freq:0>
+<gridsquare:6>DN96ot
+<mode:2>SSB
+<my_cnty:5>SCOTT
+<my_gridsquare:6>EN34dp
+<my_sig:4>POTA
+<my_sig_info:6>K-9384
+<my_state:2>MN
+<name:45>undefined CENTRAL DAKOTA AMATEUR RAD CLUB INC
+<operator:6>KD0MGE
+<qso_date:8>20230624
+<qso_date_off:8>20230624
+<qth:8>Bismarck
+<rst_rcvd:2>59
+<rst_sent:2>59
+<state:2>ND
+<time_on:6>180047
+<tx_pwr:3>100
+<eor>
+
+<band:3>20m
+<call:5>W5TMC
+<cnty:8>Sequoyah
+<comment:6>1d ok 
+<country:13>United States
+<freq:0>
+<gridsquare:6>EM25oi
+<mode:2>SSB
+<my_cnty:5>SCOTT
+<my_gridsquare:6>EN34dp
+<my_sig:4>POTA
+<my_sig_info:6>K-9384
+<my_state:2>MN
+<name:13>Thomas M Cole
+<operator:6>KD0MGE
+<qso_date:8>20230624
+<qso_date_off:8>20230624
+<qth:8>Sallisaw
+<rst_rcvd:3>599
+<rst_sent:3>599
+<state:2>OK
+<time_on:6>180312
+<tx_pwr:3>100
+<eor>
+
+<band:3>20m
+<call:5>W7AIA
+<cnty:5>Clark
+<comment:5>4a wa
+<country:13>United States
+<freq:0>
+<gridsquare:6>CN85qr
+<mode:2>SSB
+<my_cnty:5>SCOTT
+<my_gridsquare:6>EN34dp
+<my_sig:4>POTA
+<my_sig_info:6>K-9384
+<my_state:2>MN
+<name:41>undefined CLARK COUNTY AMATEUR RADIO CLUB
+<operator:6>KD0MGE
+<qso_date:8>20230624
+<qso_date_off:8>20230624
+<qth:9>Vancouver
+<rst_rcvd:3>599
+<rst_sent:3>599
+<state:2>WA
+<time_on:6>180631
+<tx_pwr:3>100
+<eor>
+
+<band:3>20m
+<call:3>W4H
+<cnty:6>Clarke
+<comment:5>3a ga
+<country:13>United States
+<freq:0>
+<gridsquare:6>EM83ep
+<mode:2>SSB
+<my_cnty:5>SCOTT
+<my_gridsquare:6>EN34dp
+<my_sig:4>POTA
+<my_sig_info:6>K-9384
+<my_state:2>MN
+<name:24>Athens Radio Club KD4QHB
+<operator:6>KD0MGE
+<qso_date:8>20230624
+<qso_date_off:8>20230624
+<qth:6>Athens
+<rst_rcvd:3>599
+<rst_sent:3>599
+<state:2>GA
+<time_on:6>182324
+<tx_pwr:3>100
+<eor>
+
+<band:2>2m
+<call:5>K0PIG
+<cnty:6>Dakota
+<country:13>United States
+<freq:7>146.520
+<gridsquare:6>EN34is
+<mode:2>FM
+<my_cnty:5>SCOTT
+<my_gridsquare:6>EN34dp
+<my_sig:4>POTA
+<my_sig_info:6>K-9384
+<my_state:2>MN
+<name:13>Mark J Gasior
+<operator:6>KD0MGE
+<qso_date:8>20230624
+<qso_date_off:8>20230624
+<qth:10>Burnsville
+<rst_rcvd:3>599
+<rst_sent:3>599
+<state:2>MN
+<time_on:6>193814
+<tx_pwr:3>100
+<eor>
+
+<band:4>70cm
+<call:5>K0PIG
+<cnty:6>Dakota
+<country:13>United States
+<freq:5>446.0
+<gridsquare:6>EN34is
+<mode:2>FM
+<my_cnty:5>SCOTT
+<my_gridsquare:6>EN34dp
+<my_sig:4>POTA
+<my_sig_info:6>K-9384
+<my_state:2>MN
+<name:13>Mark J Gasior
+<operator:6>KD0MGE
+<qso_date:8>20230624
+<qso_date_off:8>20230624
+<qth:10>Burnsville
+<rst_rcvd:2>59
+<rst_sent:2>59
+<state:2>MN
+<time_on:6>194008
+<tx_pwr:3>100
+<eor>
+
+<band:3>20m
+<call:5>W1SYE
+<cnty:7>Newport
+<country:13>United States
+<freq:6>14.190
+<gridsquare:6>FN41il
+<mode:2>SSB
+<my_cnty:5>SCOTT
+<my_gridsquare:6>EN34dp
+<my_sig:4>POTA
+<my_sig_info:6>K-9384
+<my_state:2>MN
+<name:35>undefined NEWPORT COUNTY RADIO CLUB
+<operator:6>KD0MGE
+<qso_date:8>20230624
+<qso_date_off:8>20230624
+<qth:7>Newport
+<rst_rcvd:2>59
+<rst_sent:2>59
+<state:2>RI
+<time_on:6>213515
+<tx_pwr:3>100
+<eor>
+
+<band:2>6m
+<call:5>K0PIG
+<cnty:6>Dakota
+<comment:5>1b mn
+<country:13>United States
+<freq:6>50.125
+<gridsquare:6>EN34dp
+<mode:3>SSB
+<my_cnty:5>SCOTT
+<my_gridsquare:6>EN34dp
+<my_sig:4>POTA
+<my_sig_info:6>K-9384
+<my_state:2>MN
+<name:13>Mark J Gasior
+<operator:6>KD0MGE
+<qso_date:8>20230624
+<qso_date_off:8>20230624
+<rst_rcvd:2>59
+<rst_sent:2>59
+<sig_info:6>K-7145
+<state:2>MN
+<time_on:6>213903
+<tx_pwr:3>100
+<eor>
+
+<band:3>20m
+<call:5>K0PIG
+<cnty:6>Dakota
+<comment:5>1b mn
+<country:13>United States
+<freq:6>14.188
+<gridsquare:6>EN34dp
+<mode:3>SSB
+<my_cnty:5>SCOTT
+<my_gridsquare:6>EN34dp
+<my_sig:4>POTA
+<my_sig_info:6>K-9384
+<my_state:2>MN
+<name:13>Mark J Gasior
+<operator:6>KD0MGE
+<qso_date:8>20230624
+<qso_date_off:8>20230624
+<rst_rcvd:2>59
+<rst_sent:2>59
+<sig_info:6>K-7145
+<state:2>MN
+<time_on:6>213947
+<tx_pwr:3>100
+<eor>
+
+<band:3>20m
+<call:6>WA1USA
+<cnty:4>Kent
+<comment:5>2f ri
+<country:13>United States
+<freq:6>14.236
+<gridsquare:6>FN41gs
+<mode:3>SSB
+<my_cnty:5>SCOTT
+<my_gridsquare:6>EN34dp
+<my_sig:4>POTA
+<my_sig_info:6>K-9384
+<my_state:2>MN
+<name:16>undefined RICOMU
+<operator:6>KD0MGE
+<qso_date:8>20230624
+<qso_date_off:8>20230624
+<qth:7>Warwick
+<rst_rcvd:2>59
+<rst_sent:2>59
+<state:2>RI
+<time_on:6>214257
+<tx_pwr:3>100
+<eor>
+
