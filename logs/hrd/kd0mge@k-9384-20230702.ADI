@@ -1,0 +1,78 @@
+#++
+#
+#   HRD Logbook version 6.8.0.340, Copyright (c) 2003-2022 by HRD Software, LLC
+#   https://www.HamRadioDeluxe.com/
+#
+#   Created:  20230702 192948
+#
+#--
+
+<ADIF_VERS:3>2.2
+<PROGRAMID:14>HamRadioDeluxe
+<PROGRAMVERSION:17>Version 6.8.0.340
+<CREATED_TIMESTAMP:15>20230702 192948
+<EOH>
+
+<address:78>DAVID M DOUGLAS, W5TN
+251 Seth HVN
+DRIPPING SPRINGS, TX 78620
+United States <a_index:3>5.0 
+<ant_az:3>0.0 <ant_el:3>0.0 <ant_path:1>S <band:3>20m <call:5>W5TN` <cnty:7>TX,Hays <cont:2>NA <country:13>United States 
+<distance:8>1677.367 <dxcc:3>291 <email:13>w5tn@arrl.net <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>N 
+<freq:9>14.310000 <gridsquare:6>EM00wf <app_hamradiodeluxe_heading:7>196.013 <k_index:3>1.0 <lat:11>N030 13.049 
+<lon:11>W098 08.134 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:3>SSB <my_city:11>Bloomington <my_cnty:8>Hennepin 
+<my_country:13>United States <my_gridsquare:6>EN34ht <my_name:12>Stephen Post <my_postal_code:5>55438 
+<my_rig:7>FT-857D <my_state:2>MN <my_street:20>10332 Yukon Ave Suth <name:15>DAVID M DOUGLAS <operator:6>KD0MGE 
+<pfx:2>W5 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y <qso_random:1>N 
+<qth:16>DRIPPING SPRINGS <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:5>170.0 <sig:4>POTA <sig_info:6>K-3048 
+<state:2>TX <station_callsign:6>KD0MGE <swl:1>N <time_off:6>002336 <time_on:6>002336 <tx_pwr:6>50.000 
+<app_hamradiodeluxe_my_antennas:4>G5RV <hrdcountryno:3>291 <qso_date:8>20230703 <EOR>
+
+<address:87>RAND D REYNARD, W0RDR
+127 N. Cedar Street, PO BOX 27
+Goddard, KS 67052
+United States <a_index:3>5.0 
+<ant_az:3>0.0 <ant_el:3>0.0 <ant_path:1>S <band:3>20m <call:5>W0RDR <cnty:8>KS,Allen <cont:2>NA <country:13>United States 
+<distance:7>870.242 <dxcc:3>291 <email:21>randy.w0rdr@gmail.com <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N 
+<force_init:1>N <freq:9>14.287000 <gridsquare:6>EM17fp <app_hamradiodeluxe_heading:7>205.224 <k_index:3>1.0 
+<lat:11>N037 39.465 <lon:11>W097 34.434 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:3>SSB <my_city:11>Bloomington 
+<my_cnty:8>Hennepin <my_country:13>United States <my_gridsquare:6>EN34ht <my_name:12>Stephen Post <my_postal_code:5>55438 
+<my_rig:7>FT-857D <my_state:2>MN <my_street:20>10332 Yukon Ave Suth <name:14>RAND D REYNARD <operator:6>KD0MGE 
+<pfx:2>W0 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qsl_via:4>LoTW <qso_complete:1>Y 
+<qso_random:1>N <qth:7>Goddard <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:5>170.0 <sig:4>POTA <sig_info:6>K-7920 
+<state:2>KS <station_callsign:6>KD0MGE <swl:1>N <time_off:6>002124 <time_on:6>002124 <tx_pwr:6>50.000 
+<app_hamradiodeluxe_my_antennas:4>G5RV <hrdcountryno:3>291 <qso_date:8>20230703 <EOR>
+
+<a_index:3>5.0 <ant_az:3>0.0 <ant_el:3>0.0 <ant_path:1>S <band:3>20m <call:6>WB4MYO <cont:2>NA <country:13>United States 
+<distance:7>732.561 <dxcc:3>291 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>N <freq:9>14.276000 
+<app_hamradiodeluxe_heading:7>209.410 <k_index:3>1.0 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:3>SSB 
+<my_city:11>Bloomington <my_cnty:8>Hennepin <my_country:13>United States <my_gridsquare:6>EN34ht <my_name:12>Stephen Post 
+<my_postal_code:5>55438 <my_rig:7>FT-857D <my_state:2>MN <my_street:20>10332 Yukon Ave Suth <operator:6>KD0MGE 
+<pfx:3>WB4 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y <qso_random:1>N 
+<rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:5>170.0 <station_callsign:6>KD0MGE <swl:1>N <time_off:6>220521 
+<time_on:6>220521 <tx_pwr:6>50.000 <app_hamradiodeluxe_my_antennas:4>G5RV <hrdcountryno:3>291 <qso_date:8>20230702 <EOR>
+
+<address:79>Abigail R Post, KE0RHV
+10332 Yukon Ave S
+Minneapolis, MN 55438
+United States <a_index:3>5.0 
+<ant_az:3>0.0 <ant_el:3>0.0 <ant_path:1>S <band:2>6m <call:6>KE0RHV <cnty:11>MN,Hennepin <cont:2>NA <country:13>United States 
+<distance:7>732.561 <dxcc:3>291 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>N <freq:9>50.125000 
+<app_hamradiodeluxe_heading:7>209.410 <k_index:3>1.0 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:3>SSB 
+<my_city:11>Bloomington <my_cnty:8>Hennepin <my_country:13>United States <my_gridsquare:6>EN34ht <my_name:12>Stephen Post 
+<my_postal_code:5>55438 <my_rig:7>FT-857D <my_state:2>MN <my_street:20>10332 Yukon Ave Suth <name:14>Abigail R Post 
+<operator:6>KD0MGE <pfx:3>KE0 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y 
+<qso_random:1>N <qth:11>Minneapolis <rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:5>170.0 <state:2>MN 
+<station_callsign:6>KD0MGE <swl:1>N <time_off:6>220037 <time_on:6>220037 <tx_pwr:6>50.000 <app_hamradiodeluxe_my_antennas:4>G5RV 
+<hrdcountryno:3>291 <qso_date:8>20230702 <EOR>
+
+<a_index:3>5.0 <ant_az:3>0.0 <ant_el:3>0.0 <ant_path:1>S <band:3>20m <call:4>NV5A <cont:2>NA <country:13>United States 
+<distance:7>732.561 <dxcc:3>291 <eqsl_qsl_rcvd:1>N <eqsl_qsl_sent:1>N <force_init:1>N <freq:9>14.327000 
+<app_hamradiodeluxe_heading:7>209.410 <k_index:3>1.0 <lotw_qsl_rcvd:1>N <lotw_qsl_sent:1>N <mode:3>SSB 
+<my_city:11>Bloomington <my_cnty:8>Hennepin <my_country:13>United States <my_gridsquare:6>EN34ht <my_name:12>Stephen Post 
+<my_postal_code:5>55438 <my_rig:7>FT-857D <my_state:2>MN <my_street:20>10332 Yukon Ave Suth <operator:6>KD0MGE 
+<pfx:3>NV5 <qsl_rcvd:1>N <qsl_rcvd_via:1>D <qsl_sent:1>N <qsl_sent_via:1>D <qso_complete:1>Y <qso_random:1>N 
+<rst_rcvd:2>59 <rst_sent:2>59 <rx_pwr:3>0.0 <sfi:5>170.0 <sig:4>POTA <sig_info:6>K-2917 <station_callsign:6>KD0MGE 
+<swl:1>N <time_off:6>165550 <time_on:6>165550 <tx_pwr:6>50.000 <app_hamradiodeluxe_my_antennas:4>G5RV 
+<hrdcountryno:3>291 <qso_date:8>20230702 <EOR>
+
